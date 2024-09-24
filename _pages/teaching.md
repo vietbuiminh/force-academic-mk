@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banners/IMG_1921.JPG
   #actions:
   #  - label: "Get started"
-  #    url: "/awtest/"
+  #    url: "/test/"
   caption:
 excerpt: I strive to position myself in the classroom as a resource for students, where I serve as an instructor and collaborator for each student to achieve learning goals. **My teaching approach is focused on active learning, building an inclusive classroom environment, and a student-driven focus to assess teaching outcomes.**
 
