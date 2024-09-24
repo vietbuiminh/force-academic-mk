@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
-excerpt: I am a Guarini Dean's Postdoctoral Fellow at Dartmouth College, where I use field-based geochronology and sediment coring, remote sensing, and computational modeling to study how river systems respond to changes in climate and base level (the water level at a river’s mouth), and sedimentation (either driven by glaciation or agriculture).
+excerpt: I am the Guarini Dean's Postdoctoral Fellow at Dartmouth College, where I use field-based geochronology and sediment coring, remote sensing, and computational modeling to study how river systems respond to changes in climate and base level (the water level at a river’s mouth), and sedimentation (either driven by glaciation or agriculture).
 ---
  
 I’m interested in using natural systems to address broad geomorphic questions and connecting field-based and modeling approaches to understand the impacts of climate and land use change on Earth’s landscapes.
