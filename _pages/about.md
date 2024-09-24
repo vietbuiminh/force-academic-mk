@@ -24,7 +24,7 @@ I received my PhD from the University of Minnesota and graduated from Carleton C
 <figure class="half">
 	<img src="/assets/images/banners/IMG_2277.JPG">
 	<img src="/assets/images/IMG_5616_2.JPG">
-	<figcaption>Left: OSL lab aftermath, Right: Vibracoring into frozen sediments. </figcaption>
+	<figcaption>Left: OSL lab aftermath, Right: Augering on a river terrace. </figcaption>
 </figure> 
 
 ## Affiliations
