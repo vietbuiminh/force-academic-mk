@@ -14,12 +14,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
-excerpt: I am a PhD candidate at the University of Minnesota, where I use field-based geochronology and sediment coring, remote sensing, and computational modeling to study how river systems respond to changes in climate and base level (the water level at a river’s mouth), and sedimentation (either driven by glaciation or agriculture).
+excerpt: I am a Guarini Dean's Postdoctoral Fellow at Dartmouth College, where I use field-based geochronology and sediment coring, remote sensing, and computational modeling to study how river systems respond to changes in climate and base level (the water level at a river’s mouth), and sedimentation (either driven by glaciation or agriculture).
 ---
  
 I’m interested in using natural systems to address broad geomorphic questions and connecting field-based and modeling approaches to understand the impacts of climate and land use change on Earth’s landscapes.
 
-I graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area. To learn more about my current projects, see my Research Page.
+I received my PhD from the University of Minnesota and graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area. To learn more about my current projects, see my Research Page.
  
 <figure class="half">
 	<img src="/assets/images/banners/IMG_2277.JPG">
@@ -29,9 +29,9 @@ I graduated from Carleton College with a BA in Geology. Before starting my PhD I
 
 ## Affiliations
 
+* [Department of Earth Sciences, Dartmouth College](https://earthsciences.dartmouth.edu/)
 * [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl)
-* [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
 * [MNiMorph Group, University of Minnesota](https://mnimorph.github.io/)
 
 ## Contact:
-penpr001@umn.edu
+shanti.b.penprase@dartmouth.edu
