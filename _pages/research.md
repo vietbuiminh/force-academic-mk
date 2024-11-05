@@ -25,7 +25,7 @@ toc: true
 toc_sticky: false        
 ---
 ## Research Projects
-### Axe vs Ice Age: Human and climatic impacts on erosion rates in the Whitewater River Basin
+### Plow vs Ice Age: Human and climatic impacts on erosion rates in the Whitewater River Basin
  
 Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
 
@@ -45,12 +45,12 @@ As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of 
 	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
 </figure>
 
-### Undergraduate Advisee: <br>Identifying Provenance of Glacially-Derived Outwash Sediments
+### Identifying Provenance of Glacially-Derived Outwash Sediments (Undergraduate Advisee)
 
-In this project, I am supervising UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
+In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
  
 <figure class="single">
-	<img src="assets/images/IMG_7580.JPG">
+	<img src="assets/images/IMG_7580.png">
 	<figcaption>Collecting optically stimulated luminescence samples near the mouth of the Whitewater River.</figcaption>
 </figure>
  
@@ -59,15 +59,15 @@ In this project, I am supervising UMN Undergraduate Abigail Wilwerding, to under
  
 #### Kettle Lake Morphology
 
-This project (currently led by Jillian Prescott, University of Wisconsin Madison), explores the relationship between ice sphere volume and burial depth to kettle depression morphology. I will be expanding upon her initial study (Prescott et al, Accepted) to build a larger dataset for kettle lake formation morphologies using new testing parameters and applying these laboratory findings to field settings. 
+This project (currently led by Jillian Prescott, University of Wisconsin Madison), explores the relationship between ice sphere volume and burial depth to kettle depression morphology. I will be expanding upon this initial study (Prescott et al., <i>Accepted</i>) to build a larger dataset for kettle lake formation morphologies using new testing parameters and applying these laboratory findings to field settings. 
 
 <figure class="single">
 	<img src="/assets/images/Kettle Formation Diagram_only kettles.png">
-	<figcaption> Kettle depression formation mechanism.</figcaption>
+	<figcaption> Process for kettle formation. A) Ice block is entrained in sediment, B) ongoing glacial outwash bury ice bock, C) Melted ice leaves depression at the surface. </figcaption>
 </figure>
 
 
-#### Research Collaboration: <br>Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe
+#### Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe
 
 In this collaborative project (led by Matias Romero, University of Wisconsin Madison), we are working to constrain the ice lobe retreat and paraglacial landscape response of the Lago Argentino outlet lobe of the Southern Patagonian Ice Sheet. The project uses remotely sensed data and field-based geochronology (<sup>10</sup>Be and infrared stimulated luminescence (IRSL)) to map and date glacial features in the Rio Santa Cruz Valley, on the edge of Lago Argentino in southern Patagonia, Argentina. For this project, I collected processed IRSL samples of landforms in the valley to further develop the paraglacial evolution of the valley.
 
@@ -102,7 +102,7 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 | **Penprase, S.**, Wickert, A., Larson, P. H., Rittenour, T., Riedesel, S., Running, G., Faulkner, D., Dunn, C., Mitchell, P., Iscen, N., Hassenruk-Gudipati H., Kwang, J., Jones, J., Barefoot, E., Schewe, J., Romero, M., and Van Wyk de Vries, M., <i>A natural experiment for base level change in alluvial river systems: post-glacial evolution of the Whitewater River, southeastern Minnesota </i>. Earth Surface Dynamics. |
 
 <figure class="half">
-	<img src="assets/images/IMG_7502.JPG">
+	<img src="assets/images/IMG_7502.png">
 	<img src="/assets/images/banners/IMG_2247.JPG">
 	<figcaption>Left: Describing sediments in the Zumbro River Valley, Right: OSL lab sample processing</figcaption>
 </figure>
