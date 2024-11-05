@@ -40,7 +40,7 @@ Euro-American settlement irrevocably altered the landscapes of the Upper Midwest
 In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
  
 <figure class="single">
-	<img src="assets/images/Slackwater_horizontal.png">
+	<img src="/assets/images/Slackwater_horizontal.png">
 	<figcaption>Schematic diagram showing the depsotion of slackwater sediments.</figcaption>
 </figure>
  
@@ -99,10 +99,6 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 | **Penprase, S.B.**, *Wilwerding, A.C., McKenzie, M., Wickert, A.D., Larson, H., and Rittenour, T. <i>Slackwater sediments reveal time-variable glacial meltwater routing down the Upper Mississippi River at the Younger Dryas–Holocene transition.</i> Climate of the Past. |
 | **Penprase, S.**, Wickert, A., Larson, P. H., Rittenour, T., Riedesel, S., Running, G., Faulkner, D., Dunn, C., Mitchell, P., Iscen, N., Hassenruk-Gudipati H., Kwang, J., Jones, J., Barefoot, E., Schewe, J., Romero, M., and Van Wyk de Vries, M., <i>A natural experiment for base level change in alluvial river systems: post-glacial evolution of the Whitewater River, southeastern Minnesota </i>. Earth Surface Dynamics. |
 
-<figure class="single">
-	<img src="/assets/images/banners/IMG_2247.JPG">
-	<figcaption> OSL lab sample processing</figcaption>
-</figure>
 
 ## Research Themes
 
