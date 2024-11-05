@@ -35,6 +35,15 @@ Euro-American settlement irrevocably altered the landscapes of the Upper Midwest
 	<figcaption>Left: Processing cosmogenic samples, Right: Buried pre-settlement soil</figcaption>
 </figure>
 
+### Identifying Provenance of Glacially-Derived Outwash Sediments (Undergraduate Advisee)
+
+In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
+ 
+<figure class="single">
+	<img src="assets/images/Slackwater_horizontal.png">
+	<figcaption>Schematic diagram showing the depsotion of slackwater sediments.</figcaption>
+</figure>
+ 
 ### Glacially modulated base level change impacts on channel long profile
 
 As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of glacial sediment and meltwater dramatically altered base level for tributaries connected to the then proglacial Mississippi River. By pairing glacial chronology with river channel long profile evolution and bedrock morphology during this period, we are able to build a field-based dataset that demonstrates how rivers respond to changing base level without additional tectonic signals. This, in turn, allows us to test models of how transport-limited river systems respond to perturbations using real world, physically-based data. 
@@ -44,16 +53,6 @@ As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of 
 	<img src="/assets/images/banners/IMG_0211.JPG">
 	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
 </figure>
-
-### Identifying Provenance of Glacially-Derived Outwash Sediments (Undergraduate Advisee)
-
-In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
- 
-<figure class="single">
-	<img src="assets/images/IMG_7580.png">
-	<figcaption>Collecting optically stimulated luminescence samples near the mouth of the Whitewater River.</figcaption>
-</figure>
- 
 
 ### Collaborator-Driven Projects
  
@@ -76,7 +75,6 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 	<img src="/assets/images/GroupFitzRoy.JPG">
 	<figcaption>Fitz Roy crew (Kelly MacGregor, Macalester College; Shanti Penprase, University of Minnesota; Matias Romero, University of Wisconsin; Max Van Wyk De Vries, University of Oxford), Argentina 2020</figcaption>
 </figure>
-
 
 ## Publications
 
@@ -101,10 +99,9 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 | **Penprase, S.B.**, *Wilwerding, A.C., McKenzie, M., Wickert, A.D., Larson, H., and Rittenour, T. <i>Slackwater sediments reveal time-variable glacial meltwater routing down the Upper Mississippi River at the Younger Dryas–Holocene transition.</i> Climate of the Past. |
 | **Penprase, S.**, Wickert, A., Larson, P. H., Rittenour, T., Riedesel, S., Running, G., Faulkner, D., Dunn, C., Mitchell, P., Iscen, N., Hassenruk-Gudipati H., Kwang, J., Jones, J., Barefoot, E., Schewe, J., Romero, M., and Van Wyk de Vries, M., <i>A natural experiment for base level change in alluvial river systems: post-glacial evolution of the Whitewater River, southeastern Minnesota </i>. Earth Surface Dynamics. |
 
-<figure class="half">
-	<img src="assets/images/IMG_7502.png">
+<figure class="single">
 	<img src="/assets/images/banners/IMG_2247.JPG">
-	<figcaption>Left: Describing sediments in the Zumbro River Valley, Right: OSL lab sample processing</figcaption>
+	<figcaption> OSL lab sample processing</figcaption>
 </figure>
 
 ## Research Themes
