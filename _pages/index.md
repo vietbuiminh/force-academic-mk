@@ -11,7 +11,7 @@ header:
     - label: "About Me"
       url: "/about/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, land use change, and climatic shifts on river systems. <br />
+excerpt: I am the Guarini Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, land use change, and climatic shifts on river systems. <br />
 
 # Includes author profile in sidebar
 author: Shanti Penprase
