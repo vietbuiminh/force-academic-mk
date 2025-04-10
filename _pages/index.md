@@ -19,10 +19,10 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/DSC_7521.jpeg
+  - image_path: /assets/images/IMG_1834.JPG
     alt: "Research"
     title: "Research"
-    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, and modeling approaches. My research interests include peri- and para-glacial landscape evolution, geochronology, and remote sensing."
+    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, and modeling approaches. My research interests include post-glacial and Arctic landscape evolution, geochronology, and remote sensing."
     url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
