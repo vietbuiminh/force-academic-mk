@@ -59,9 +59,10 @@ see: <i>Penprase et al. (2025)</i>
 
 In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
  
-<figure class="single">
+<figure class="half">
 	<img src="/assets/images/Slackwater_horizontal.png">
-	<figcaption>Schematic diagram showing the depsotion of slackwater sediments.</figcaption>
+		<img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg">
+	<figcaption>Left: Schematic diagram showing the depsotion of slackwater sediments. Right: Close up of slackwater sediments.</figcaption>
 </figure>
  
 ### Glacially Modulated Base Level Change Impacts on River Channel Long Profile
