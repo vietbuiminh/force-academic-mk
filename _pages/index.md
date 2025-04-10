@@ -11,7 +11,7 @@ header:
     - label: "About Me"
       url: "/about/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I am the Guarini Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, land use change, and climatic shifts on river systems. <br />
+excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes and river systems. <br />
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/DSC_7521.jpeg
     alt: "Research"
     title: "Research"
-    excerpt: "I study how rivers respond to changing climate and land use using field, lab, and computationally-based approaches. My research interests include geochronology, remote sensing, and paraglacial landscape evolution."
+    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, and modeling approaches. My research interests include peri- and para-glacial landscape evolution, geochronology, and remote sensing."
     url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
