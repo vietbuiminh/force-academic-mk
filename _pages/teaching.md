@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/IMG_1921.JPG
+  overlay_image: /assets/images/DSC2877.JPG
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
@@ -26,8 +26,8 @@ classes: wide
 In addition to my teaching experience, **I have served as a direct research advisor, senior thesis committee member, and research collaborator for a number of undergraduate students**. Several of my students have generated independent research projects and presented their research in a number of public formats. As a mentor **I work to build a project plan with each of my students to address their specific research and skill building goals during our work together**.
 
 <figure class="half">
-	<img src="/assets/images/DSC2877.JPG">
-	<img src="/assets/images/banners/IMG_8356.JPG">
+	<img src="/assets/images/DSC_0274_export.jpg">
+	<img src="/assets/images/IMG_2124.jpg">
 	<figcaption></figcaption>
 </figure>
 

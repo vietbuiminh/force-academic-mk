@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/IMG_1196_2.JPG
-  #actions:
+  overlay_image: /assets/images/CalTopo_Aklavik Range.png
+  actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption:
+  caption: Alluvial fans in the Aklavik Range, NWT, Canada
 excerpt: My current research is focused on how **Arctic and post-glacial landscapes evolve in the face of changing climate and geomorphic processes**. I am particularly interested in Arctic alluvial fan formation processes, frost-based erosional processes, climated-driven changes in sedimentation, and periglacial landscape evolution. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. <br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
 
 
@@ -50,9 +50,9 @@ Euro-American settlement irrevocably altered the landscapes of the Upper Midwest
 see: <i>Penprase et al. (2025)</i> 
 
 <figure class="half">
-	<img src="/assets/images/IMG_4005.JPG">
+	<img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
 	<img src="/assets/images/IMG_5543_2.JPG">
-	<figcaption>Left: Processing cosmogenic samples, Right: Buried pre-settlement soil</figcaption>
+	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
 </figure>
 
 ### Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing (Undergraduate Advisee)
@@ -82,8 +82,8 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 
 
 <figure class="single">
-	<img src="/assets/images/GroupFitzRoy.JPG">
-	<figcaption>Fitz Roy crew (Kelly MacGregor, Macalester College; Shanti Penprase, University of Minnesota; Matias Romero, University of Wisconsin; Max Van Wyk De Vries, University of Oxford), Argentina 2020</figcaption>
+	<img src="/assets/images/IMG_3837.png">
+	<figcaption>Argentina crew (from left to right: Matias Romero, University of Wisconsin; Andrew Wickert, University of Minnesota; Max Van Wyk De Vries, University of Cambridge; Shanti Penprase, Dartmouth College; Kelly MacGregor, Macalester College), Argentina 2020</figcaption>
 </figure>
 
 ## Publications
