@@ -23,10 +23,12 @@ toc: true
 toc_sticky: true        
 ---
 
-# Cool Fans: Controls on Arctic fluvial and debris-flow fan morphology and processes
+# Cool Fans: 
+## Controls on Arctic fluvial and debris-flow fan morphology and processes
 The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to flucations in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings. The header photo of this page shows the Aklavik Range and many of the fans I am studying for this project.
 
-# <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisees)</i>
+# Kettle Lakes:
+## <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisees)</i>
 
 Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. <i>This project builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024).</i> 
 
