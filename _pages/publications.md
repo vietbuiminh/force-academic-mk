@@ -10,24 +10,26 @@ author_profile: true
 classes: wide
 
 # If you want a header image
-#header:
-#  image: "/assets/images/photo-1590379492966-e076d8f84c2d.jpeg"
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#  image_description: "A description of the image"
+header:
+  overlay_color: "#222222" #"#5e616c"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banners/PeritoMorenoSideRiver.JPG
+  caption: "Perito Moreno Glacier, Argentina"
+excerpt: [A full citation list can be found on Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en)
 ---
 # Publications
 [Full citation list at Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en)
 
 ## **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**
-**Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.
-<i>Geology,</i> 2025: https://doi.org/10.1130/G52585.1
+**Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.<br>
+<i>Geology,</i> 2025: https://doi.org/10.1130/G52585.1<br>
 Abstract
-
-## **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**
-**Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.
-<i>Geology,</i> 2025: https://doi.org/10.1130/G52585.1
+<hr>
+**Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**
+**Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.<br>
+<i>Geology,</i> 2025: https://doi.org/10.1130/G52585.1<br>
 Abstract
-<br>
+<hr>
 ## **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**
 **Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.
 <i>Geology,</i> 2025: https://doi.org/10.1130/G52585.1
