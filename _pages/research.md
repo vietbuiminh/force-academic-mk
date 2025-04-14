@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: I'm interested in how **climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.** <br><br>My current research is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. <br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
+excerpt: I'm interested in how **climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.** 
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -23,15 +23,19 @@ author_profile: true
 toc: true
 toc_sticky: true        
 ---
+My current research is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
+
+I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
+
 ## Research Projects
 ## Arctic and Periglacial Landscapes
 ### Cool Fans: Controls on Arctic fluvial and debris-flow fan morphology and processes
 
 The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to flucations in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings. The header photo of this page shows the Aklavik Range and many of the fans I am studying for this project.
 
-### Project KEtTLE: <u>K</u>ey Equations for depression morphology from ice buried at The glacial Terminus using Lab-based Experimentation (KETLE)
+### Project KEtTLE: <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisee)</i>
 
-Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. This work builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024). 
+Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. <i>This project builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024).</i> 
 
 See: <i>Prescott et al. (2024)</i>
 
@@ -54,7 +58,7 @@ see: <i>Penprase et al. (2025)</i>
 	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
 </figure>
 
-### Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing (Undergraduate Advisee)
+### Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing <i>(Undergraduate Advisee)</i>
 
 In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
  
@@ -74,7 +78,7 @@ As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of 
 	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
 </figure>
 
-### Collaborator-Driven Projects
+### **Collaborator-Driven Projects**
 
 #### Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe
 
