@@ -15,7 +15,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/PeritoMorenoSideRiver.JPG
   caption: "Perito Moreno Glacier, Argentina"
-excerpt: [A full citation list can be found on Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en)
+excerpt: Publications
 ---
 # Publications
 [Full citation list at Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en)
