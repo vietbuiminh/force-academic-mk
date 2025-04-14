@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Research"
 permalink: /research/
 hidden: true
@@ -11,16 +11,13 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts. I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).<br><br> Please feel free to click through each project to learn more about it. For my publications, see the publications tab above.
+excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts. I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).<br><br> <i>Please feel free to click through each project to learn more about it. **For my publications, see the publications tab above.**</i>
 # Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true
 #classes: wide
 
 # 
-
-toc: false
-toc_sticky: false 
 
 feature_row:
   - image_path: /assets/images/IMG_1834.JPG
