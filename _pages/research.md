@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.<br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).<br><i>Please feel free to click through each project to learn more about it.</i>
+excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.<br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).<br><br><i>Please feel free to click through each project to learn more about it.</i>
 # Includes author profile in sidebar
 #author: Shanti Penprase
 #author_profile: true
@@ -19,25 +19,25 @@ excerpt: I'm interested in how climate and deglaciation dictate process and morp
 
 # 
 feature_row:
-  - image_path: /assets/images/IMG_1834.JPG
+  - image_path: /assets/images/CalTopo_Aklavik Range.png
     alt: "Arctic"
     title: "Arctic & Periglacial Processes"
-    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, and modeling approaches. My research interests include post-glacial and Arctic landscape evolution, geochronology, and remote sensing."
+    excerpt: "Periglacial landscapes, or landscapes shaped by active freeze-thaw processes and in proximity to glaciers, are the first phase of processes that change the landscape following glaciation. This work focuses on two major landforms found in cold regions: alluvial fans and kettle lakes."
     url: "http://spenprase.github.io/research/arctic-periglacial"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
   - image_path: /assets/images/Beaver_HouseSedimentation_1938.jpg
-    alt: "Paraglacial Change along the Mississippi River"
-    title: "Mississippi River"
-    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to my teaching, mentorship, and research collaborations."
+    alt: "Paraglacial Processes and Land-Use Change in the Upper Mississippi River"
+    title: "Paraglacial Processes and Land-Use Change in the Upper Mississippi River"
+    excerpt: "Paraglacial landscapes, or landscapes recovering from the impacts of glaciation, can still be shaped by glacially-driven processes thousands of years after ice retreat. In the Upper Mississippi River Valley, I address questions spanning from the Last Glacial Maximum to post-Euro-American settlement to understand how river systems are shaped by changes in climate, erosion rate, and post-glacial processes."
     url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/banners/UpsalaMountainsClouds.JPG
-    title: "Collaboration"
-    excerpt: "I'm excited eager to get in touch with folks to talk science. Please feel free to reach out about potential collaborations!"
+    title: "Collaborative Research Projects"
+    excerpt: "I've been fortunate to be a part of a number of projects led by other scientists, including extensive work on deglaciation in the Southern Patagonian Icefield, Argentina."
     url: "http://spenprase.github.io/research/collaborations"
-    btn_label: "Collaborative Projects"
+    btn_label: "Read More"
     btn_class: "btn--inverse"      
 ---
 {%include feature_row%}
