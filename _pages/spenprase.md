@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: single
-permalink: /spenprase/
+permalink: /spenpraseß/
 
 # Includes author profile in sidebar
 author: Shanti Penprase
