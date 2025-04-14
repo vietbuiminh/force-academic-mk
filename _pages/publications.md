@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 layout: single
 permalink: /publications/
 
@@ -8,7 +8,6 @@ author: Shanti Penprase
 author_profile: true
 
 classes: wide
-
 # If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
