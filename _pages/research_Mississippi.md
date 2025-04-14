@@ -1,17 +1,17 @@
 ---
 layout: single
-title: "Research"
+title: "Paraglacial Processes and Land-Use Change in the Upper Mississippi River"
 permalink: /research/paraglacial-Mississippi-River
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/CalTopo_Aklavik Range.png
+  overlay_image: /assets/images/banners/IMG_1728 2.JPG
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: I'm interested in how **climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.** 
+  caption: Mississippi River in Autumn
+
 # Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true
