@@ -16,6 +16,8 @@ header:
   caption: "Mississippi River in Autumn"
 excerpt: I am the Guarini Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College, where I use remote sensing, laboratory experiments, and field-based geochronology and sediment coring to study periglacial (cold, freeze-thaw regions typically with permafrost) and paraglacial (regions recovering from the impacts of glaciation) landscape processes. 
 ---
+## Contact:
+shanti.b.penprase@dartmouth.edu
  
 I’m interested in using natural systems to address broad geomorphic questions and connecting field-based and remote-sensing approaches to understand the impacts of climate and deglaciation on Earth’s landscapes.
 
@@ -33,5 +35,3 @@ I received my PhD from the University of Minnesota and graduated from Carleton C
 * [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl)
 * [MNiMorph Group, University of Minnesota](https://mnimorph.github.io/)
 
-## Contact:
-shanti.b.penprase@dartmouth.edu

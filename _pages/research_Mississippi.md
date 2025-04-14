@@ -28,7 +28,7 @@ toc_sticky: true
  
 Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
 
-see: <i>Penprase et al. (2025)</i> 
+See: <i>Penprase et al. (2025)</i> 
 
 <figure class="half">
 	<img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
