@@ -21,7 +21,8 @@ header:
 
 | In Press | 
 | ------- | 
-|[5] **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA** <br>
+
+|[5] Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA<br>
 **Penprase, S.B.**, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.<br> 
 <i>Geology,</i> 2025:[https://doi.org/10.1130/G52585.1](https://doi.org/10.1130/G52585.1)| 
 |[4] **Late Pleistocene glacial history of the Lago Argentino outlet lobe**<br>
