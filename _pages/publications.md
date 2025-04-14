@@ -31,5 +31,5 @@ header:
 | In Prep | 
 | ------- | 
 |<i>*Denotes Undergraduate Advisee</i>|
-|[.] **Slackwater sediments reveal time-variable glacial meltwater routing down the Upper Mississippi River at the Younger Dryas–Holocene transition**; <i>**Penprase, S.B.**</i>, *Wilwerding, A.C., McKenzie, M., Wickert, A.D., Larson, H., and Rittenour, T.; <i>Climate of the Past (in prep)</i> |
-|[.] **A natural experiment for base level change in alluvial river systems: post-glacial evolution of the Whitewater River, southeastern Minnesota**; <i>**Penprase, S.B.**</i>, Wickert, A., Larson, P. H., Rittenour, T., Riedesel, S., Running, G., Faulkner, D., Dunn, C., Mitchell, P., Iscen, N., Hassenruk-Gudipati H., Kwang, J., Jones, J., Barefoot, E., Schewe, J., Romero, M., and Van Wyk de Vries, M.; <i>Earth Surface Dynamics (in prep)</i>|
+|[.] **Slackwater sediments reveal time-variable glacial meltwater routing down the Upper Mississippi River at the Younger Dryas–Holocene transition**; <i>**Penprase, S.B.**</i>, *Wilwerding, A.C., McKenzie, M., Wickert, A.D., Larson, H., and Rittenour, T.; <i>Climate of the Past (in prep).</i> |
+|[.] **A natural experiment for base level change in alluvial river systems: post-glacial evolution of the Whitewater River, southeastern Minnesota**; <i>**Penprase, S.B.**</i>, Wickert, A., Larson, P. H., Rittenour, T., Riedesel, S., Running, G., Faulkner, D., Dunn, C., Mitchell, P., Iscen, N., Hassenruk-Gudipati H., Kwang, J., Jones, J., Barefoot, E., Schewe, J., Romero, M., and Van Wyk de Vries, M.; <i>Earth Surface Dynamics (in prep).</i>|
