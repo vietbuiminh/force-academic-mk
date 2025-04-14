@@ -26,8 +26,8 @@ feature_row:
     url: "http://spenprase.github.io/research/arctic-periglacial"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
-  - image_path: /assets/images/IMG_0738.jpg
-    alt: "Paraglcial Change along the Mississippi River"
+  - image_path: /assets/images/Beaver_HouseSedimentation_1938.jpg
+    alt: "Paraglacial Change along the Mississippi River"
     title: "Mississippi River"
     excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to my teaching, mentorship, and research collaborations."
     url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
