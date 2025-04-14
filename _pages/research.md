@@ -19,73 +19,39 @@ author_profile: true
 
 # 
 
-toc: true
-toc_sticky: true        
+toc: false
+toc_sticky: false        
 ---
 My current research is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
 
 I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
 
+feature_row:
+  - image_path: /assets/images/IMG_1834.JPG
+    alt: "Arctic"
+    title: "Arctic & Periglacial Processes"
+    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, and modeling approaches. My research interests include post-glacial and Arctic landscape evolution, geochronology, and remote sensing."
+    url: "http://spenprase.github.io/research/arctic-periglacial"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
+  - image_path: /assets/images/IMG_0738.jpg
+    alt: "Paraglcial Change along the Mississippi River"
+    title: "Mississippi River"
+    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to my teaching, mentorship, and research collaborations."
+    url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/IMG_4249.PNG
+    title: "Collaboration"
+    excerpt: "I'm excited eager to get in touch with folks to talk science. Please feel free to reach out about potential collaborations!"
+    url: "http://spenprase.github.io/research/collaborations"
+    btn_label: "Collaborative Projects"
+    btn_class: "btn--inverse"      
+
 # Arctic and Periglacial Landscapes
-## Cool Fans: Controls on Arctic fluvial and debris-flow fan morphology and processes
-The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to flucations in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings. The header photo of this page shows the Aklavik Range and many of the fans I am studying for this project.
-
-## <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisees)</i>
-
-Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. <i>This project builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024).</i> 
-
-See: <i>Prescott et al. (2024)</i>
-
-<figure class="single">
-	<img src="/assets/images/Kettle Formation Diagram_only kettles.png">
-	<figcaption> Process for kettle formation. A) Ice block is entrained in sediment, B) ongoing glacial outwash bury ice bock, C) Melted ice leaves depression at the surface. </figcaption>
-</figure>
 
 
 # Paraglacial Landscape Evolution in the Upper Mississippi River Valley
-## Plow versus Ice Age: Human and climatic impacts on erosion rates in the Upper Mississippi River Valley
- 
-Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
-
-see: <i>Penprase et al. (2025)</i> 
-
-<figure class="half">
-	<img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
-	<img src="/assets/images/IMG_5543_2.JPG">
-	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
-</figure>
-
-## Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing <i>(Undergraduate Advisees)</i>
-
-In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
- 
-<figure class="half">
-	<img src="/assets/images/Slackwater_horizontal.png">
-		<img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg">
-	<figcaption>Left: Schematic diagram showing the depsotion of slackwater sediments. Right: Close up of slackwater sediments.</figcaption>
-</figure>
- 
-## Glacially Modulated Base Level Change Impacts on River Channel Long Profile
-
-As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of glacial sediment and meltwater dramatically altered base level for tributaries connected to the then proglacial Mississippi River. By pairing glacial chronology with river channel long profile evolution and bedrock morphology during this period, we are able to build a field-based dataset that demonstrates how rivers respond to changing base level without additional tectonic signals. This, in turn, allows us to test models of how transport-limited river systems respond to perturbations using real world, physically-based data. 
-
-<figure class="half">
-	<img src="/assets/images/PXL_20220227_211207835.JPEG">
-	<img src="/assets/images/banners/IMG_0211.JPG">
-	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
-</figure>
-
-# **Collaborator-Driven Projects**
-
-## Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe
-
-In this collaborative project (led by Matias Romero, University of Wisconsin Madison), we are working to constrain the ice lobe retreat and paraglacial landscape response of the Lago Argentino outlet lobe of the Southern Patagonian Ice Sheet. The project uses remotely sensed data and field-based geochronology (<sup>10</sup>Be and infrared stimulated luminescence (IRSL)) to map and date glacial features in the Rio Santa Cruz Valley, on the edge of Lago Argentino in southern Patagonia, Argentina. For this project, I collected processed IRSL samples of landforms in the valley to further develop the paraglacial evolution of the valley.
-
-
-<figure class="single">
-	<img src="/assets/images/IMG_3837.png">
-	<figcaption>Argentina crew (from left to right: Matias Romero, University of Wisconsin; Andrew Wickert, University of Minnesota; Max Van Wyk De Vries, University of Cambridge; Shanti Penprase, Dartmouth College; Kelly MacGregor, Macalester College), Argentina 2020</figcaption>
-</figure>
 
 ## Publications
 
@@ -97,7 +63,6 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 |[2] Wickert, A., Barnhart, K., Armstrong, W., Romero, M., Schulz, B., Ng, C., Sandell, C., La Frenierre, J., **Penprase, S.**, Van Wyk de Vries, M., MacGregor, K., **2024**, <i>Open-source automated ablation stakes to constrain temperature-index melt models</i> Annals of Glaciology. doi:10.1017/aog.2024.21|
 |[1] Van Wyk De Vries, M., Romero, M., **Penprase, S.**, Ng, G.-H.C., and Wickert, A.D., **2023**, <I>Increasing rate of 21st century volume loss of the Patagonian Icefields measured from proglacial river discharge</i>: Journal of Glaciology, p. 1–16. doi:10.1017/jog.2023.9. |
  
-
 
 | In Prep | 
 | ------- | 
