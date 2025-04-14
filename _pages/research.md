@@ -22,14 +22,14 @@ feature_row:
   - image_path: /assets/images/Aklavik Range_Mapped.png
     alt: "Arctic"
     title: "Arctic Fans, Kettle Lakes, & Periglacial Processes"
-    excerpt: "**Periglacial landscapes**, or landscapes shaped by active freeze-thaw processes and in proximity to glaciers, are the first phase of processes that change the landscape following glaciation. This work focuses on two major landforms found in cold regions: alluvial fans and kettle lakes."
+    excerpt: "**Peri**glacial landscapes, or landscapes shaped by active freeze-thaw processes and in proximity to glaciers, are the first phase of processes that change the landscape following glaciation. This work focuses on two major landforms found in cold regions: alluvial fans and kettle lakes."
     url: "http://spenprase.github.io/research/arctic-periglacial"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
   - image_path: /assets/images/Beaver_HouseSedimentation_1938.jpg
     alt: "Post-glacial landscape evolution, Land-Use Change, & Fluvial Systems"
     title: "Post-glacial landscape evolution, Land-Use Change, & Fluvial Systems"
-    excerpt: "**Paraglacial landscapes**, or landscapes recovering from the impacts of glaciation, can still be shaped by glacially-driven processes thousands of years after ice retreat. In the Upper Mississippi River Valley, I address questions spanning from the Last Glacial Maximum to Euro-American settlement to understand how river systems are shaped by changes in climate, erosion rate, and post-glacial processes."
+    excerpt: "**Para**glacial landscapes, or landscapes recovering from the impacts of glaciation, can still be shaped by glacially-driven processes thousands of years after ice retreat. In the Upper Mississippi River Valley, I address questions spanning from the Last Glacial Maximum to Euro-American settlement to understand how river systems are shaped by changes in climate, erosion rate, and post-glacial processes."
     url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -40,7 +40,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"      
 ---
-<br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).<br><br><i>Please feel free to click through each project to learn more about what I'm working on.</i>
+**I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).**<br><br><i>Please feel free to click through each project to learn more about what I'm working on.</i>
 
 {%include feature_row%}
 

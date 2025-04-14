@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: My current research is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**. These projects combine remote sensing, fieldwork, and laboratory experimentation to understand post-glacial landscape evolution.
+excerpt: My current research at Dartmouth College is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**.<br><br>These projects combine remote sensing, fieldwork, and laboratory experimentation to understand post-glacial landscape evolution.
 # Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true

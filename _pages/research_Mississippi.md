@@ -11,6 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Mississippi River in Autumn
+excerpt: This work, completed at the University of Minnesota, is focused understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
 
 # Includes author profile in sidebar
 author: Shanti Penprase
