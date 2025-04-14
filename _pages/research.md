@@ -33,7 +33,7 @@ feature_row:
     url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/IMG_4249.PNG
+  - image_path: /assets/images/banners/UpsalaMountainsClouds.JPG
     title: "Collaboration"
     excerpt: "I'm excited eager to get in touch with folks to talk science. Please feel free to reach out about potential collaborations!"
     url: "http://spenprase.github.io/research/collaborations"
