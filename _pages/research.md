@@ -26,14 +26,11 @@ My current research is focused on **periglacial landscape evolution and Arctic a
 
 I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
 
-## Research Projects
-## Arctic and Periglacial Landscapes
-### Cool Fans: Arctic fluvial and debris-flow fan morphology
-**Cool Fans: Controls on Arctic fluvial and debris-flow fan morphology and processes**
+# Arctic and Periglacial Landscapes
+## Cool Fans: Controls on Arctic fluvial and debris-flow fan morphology and processes
 The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to flucations in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings. The header photo of this page shows the Aklavik Range and many of the fans I am studying for this project.
 
-### Kettle Lakes (Undergraduate Advisees)
-**Project KEtTLE: <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisee)</i>**
+## <u>K</u>ey <u>E</u>quations for depression morphology from ice buried at <u>t</u>he glacial <u>T</u>erminus using <u>L</u>ab-based <u>E</u>xperimentation (KETtLE) <i>(Undergraduate Advisees)</i>
 
 Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. <i>This project builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024).</i> 
 
@@ -45,9 +42,8 @@ See: <i>Prescott et al. (2024)</i>
 </figure>
 
 
-## Paraglacial Landscape Evolution in the Upper Mississippi River Valley
-### Plow versus Ice Age
-**Plow versus Ice Age: Human and climatic impacts on erosion rates in the Upper Mississippi River Valley**
+# Paraglacial Landscape Evolution in the Upper Mississippi River Valley
+## Plow versus Ice Age: Human and climatic impacts on erosion rates in the Upper Mississippi River Valley
  
 Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
 
@@ -59,8 +55,7 @@ see: <i>Penprase et al. (2025)</i>
 	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
 </figure>
 
-### Slackwater Sediments (Undergraduate Advisee)
-**Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing**
+## Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing <i>(Undergraduate Advisees)</i>
 
 In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
  
@@ -70,8 +65,7 @@ In this project, I am working with UMN Undergraduate Abigail Wilwerding, to unde
 	<figcaption>Left: Schematic diagram showing the depsotion of slackwater sediments. Right: Close up of slackwater sediments.</figcaption>
 </figure>
  
-### Climate, base level, and river systems
-**Glacially Modulated Base Level Change Impacts on River Channel Long Profile**
+## Glacially Modulated Base Level Change Impacts on River Channel Long Profile
 
 As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of glacial sediment and meltwater dramatically altered base level for tributaries connected to the then proglacial Mississippi River. By pairing glacial chronology with river channel long profile evolution and bedrock morphology during this period, we are able to build a field-based dataset that demonstrates how rivers respond to changing base level without additional tectonic signals. This, in turn, allows us to test models of how transport-limited river systems respond to perturbations using real world, physically-based data. 
 
@@ -81,10 +75,9 @@ As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of 
 	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
 </figure>
 
-### **Collaborator-Driven Projects**
+# **Collaborator-Driven Projects**
 
-#### Lago Argentino, Patagonia
-**Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe**
+## Last Glacial Maximum retreat of the Lago Argentino Outlet Lobe
 
 In this collaborative project (led by Matias Romero, University of Wisconsin Madison), we are working to constrain the ice lobe retreat and paraglacial landscape response of the Lago Argentino outlet lobe of the Southern Patagonian Ice Sheet. The project uses remotely sensed data and field-based geochronology (<sup>10</sup>Be and infrared stimulated luminescence (IRSL)) to map and date glacial features in the Rio Santa Cruz Valley, on the edge of Lago Argentino in southern Patagonia, Argentina. For this project, I collected processed IRSL samples of landforms in the valley to further develop the paraglacial evolution of the valley.
 
