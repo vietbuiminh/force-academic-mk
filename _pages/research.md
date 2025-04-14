@@ -11,8 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: I'm interested in how **climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand year deglacial climate change to modern, anthorpogenic shifts.**<br><br>My current research is focused on **periglacial landscape evolution, Arctic alluvial fan formation processes, and climated-driven changes in sedimentation**. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. <br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
-
+excerpt: I'm interested in how **climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.** <br><br>My current research is focused on **periglacial landscape evolution and Arctic alluvial fan formation processes**. I have also completed projects focused on understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. <br><br>I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -30,7 +29,7 @@ toc_sticky: true
 
 The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to flucations in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings. The header photo of this page shows the Aklavik Range and many of the fans I am studying for this project.
 
-### Project KEtTLE: <uK</u>ey Equations for depression morphology from ice buried at The glacial Terminus using Lab-based Experimentation (KETLE)
+### Project KEtTLE: <u>K</u>ey Equations for depression morphology from ice buried at The glacial Terminus using Lab-based Experimentation (KETLE)
 
 Kettle depressions are commonly formed during glacial retreat when ice blocks are buried by proglacial sedimentation and subsequently melt, forming a depression. This project uses lab-based experiments to directly measure relationships between ice volume and burial depth to kettle depression morphology and resultant landscape roughness. This work builds upon research completed by Jillian Prescott and Professor Luke Zoet at University of Wisconsin Madison (Prescott et al., 2024). 
 
