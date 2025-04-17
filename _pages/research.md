@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/CalTopo_Aklavik Range.png
+  overlay_image: /assets/images/banners/IMG_0342.JPG
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: Alluvial fans in the Aklavik Range, NWT, Canada
+  caption: "Whitewater River Valley, Minnesota, USA"
 excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.
 # Includes author profile in sidebar
 #author: Shanti Penprase

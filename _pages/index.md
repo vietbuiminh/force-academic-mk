@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/banners/IMG_0342.JPG
-  actions:
-    - label: "About Me"
-      url: "/about/"
-  caption: "Whitewater River Valley, Minnesota, USA"
+  overlay_image: /assets/images/CalTopo_Aklavik Range.png
+  # actions:
+  #   - label: "About Me"
+  #     url: "/about/"
+  caption: "Alluvial fans in the Aklavik Range, NWT, Canada"  
 excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes and river systems. <br />
 
 # Includes author profile in sidebar
