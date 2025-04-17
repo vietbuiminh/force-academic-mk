@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 layout: single
 permalink: /CV/
 
- #Includes author profile in sidebar 2
+ #Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true
 
