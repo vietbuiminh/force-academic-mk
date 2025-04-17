@@ -24,7 +24,7 @@ toc_sticky: true
       
 ---
 # Teaching
-I work with my students to build knowledge, confidence, and the skills to critically exampine the complex, interacting, and interdisciplinary nature of climate, glaciation, and Earth surface processes. I love working with students as they develop their interests and professional goals. I have pursued teaching opporutnities throughout my academic career and hold a teaching certificate from the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum at the University of Minnesota.
+I work with my students to build knowledge, confidence, and the skills to critically exampine the complex, interacting, and interdisciplinary nature of climate, glaciation, and Earth surface processes. I love working with students as they develop their interests and professional goals. I have pursued teaching opportunities throughout my academic career and hold a teaching certificate from the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum at the University of Minnesota.
 
 ## Teaching at Dartmouth College
 
