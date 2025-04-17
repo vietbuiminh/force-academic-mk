@@ -16,15 +16,15 @@ header:
   caption: "Perito Moreno Glacier, Argentina"
 #excerpt: 
 ---
-[Full citation list available on Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en)<br>
+[Full citation list available on Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en){:target="_blank"}<br>
 
 | In Press | 
 | ------- | 
-|[5] **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**; <i>**Penprase, S.B.**</i>, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.;<i> Geology,</i> **2025**: [https://doi.org/10.1130/G52585.1](https://doi.org/10.1130/G52585.1)| 
-|[4] **Late Pleistocene glacial history of the Lago Argentino outlet lobe**; Romero, M., <i>**Penprase, S.**</i>, Van Wyk De Vries, M., Jones, A., Strelin, J., Wickert, A., Marcott, S., Martini, M., Brignone, G., MacGregor, K., Shapley, M., Ito, E., Rittenour, T., Caffee, M.; <i>Climate of the Past,</i> **2024**: [https://doi.org/10.5194/cp-20-1861-2024](https://doi.org/10.5194/cp-20-1861-2024)|
-|[3] **Controls on Glacial Kettle Morphology**; Prescott, J., Zoet, L., Hansen, D., Elmo, J., <i>**Penprase, S.**</i>; <i>Earth Surface Processes and Landforms,</i> **2024**: [https://doi.org/10.1002/esp.6030](https://doi.org/10.1002/esp.6030)|
-|[2] **Open-source automated ablation stakes to constrain temperature-index melt models**; Wickert, A., Barnhart, K., Armstrong, W., Romero, M., Schulz, B., Ng, C., Sandell, C., La Frenierre, J., <i>**Penprase, S.**</i>, Van Wyk de Vries, M., MacGregor, K.; <i> Annals of Glaciology,</i> **2024**:  [https://doi.org/10.1017/aog.2024.21](https://doi.org/10.1017/aog.2024.21)|
-|[1] **Increasing rate of 21st century volume loss of the Patagonian Icefields measured from proglacial river discharge**; Van Wyk De Vries, M., Romero, M., <i>**Penprase, S.**</i>, Ng, G.-H.C., and Wickert, A.D.; <i>Journal of Glaciology,</i> **2023**: [https://doi.org/10.1017/jog.2023.9](https://doi.org/10.1017/jog.2023.9)|
+|[5] **Plow versus Ice Age: Erosion rate variability from glacial–interglacial climate change is an order of magnitude lower than agricultural erosion in the Upper Mississippi River Valley, USA**; <i>**Penprase, S.B.**</i>, Wickert, A.D., Larson, P.H., Wood, J.J., Larsen, I.J., and Rittenour, T.M.;<i> Geology,</i> **2025**: [https://doi.org/10.1130/G52585.1](https://doi.org/10.1130/G52585.1){:target="_blank"}| 
+|[4] **Late Pleistocene glacial history of the Lago Argentino outlet lobe**; Romero, M., <i>**Penprase, S.**</i>, Van Wyk De Vries, M., Jones, A., Strelin, J., Wickert, A., Marcott, S., Martini, M., Brignone, G., MacGregor, K., Shapley, M., Ito, E., Rittenour, T., Caffee, M.; <i>Climate of the Past,</i> **2024**: [https://doi.org/10.5194/cp-20-1861-2024](https://doi.org/10.5194/cp-20-1861-2024){:target="_blank"}|
+|[3] **Controls on Glacial Kettle Morphology**; Prescott, J., Zoet, L., Hansen, D., Elmo, J., <i>**Penprase, S.**</i>; <i>Earth Surface Processes and Landforms,</i> **2024**: [https://doi.org/10.1002/esp.6030](https://doi.org/10.1002/esp.6030){:target="_blank"}|
+|[2] **Open-source automated ablation stakes to constrain temperature-index melt models**; Wickert, A., Barnhart, K., Armstrong, W., Romero, M., Schulz, B., Ng, C., Sandell, C., La Frenierre, J., <i>**Penprase, S.**</i>, Van Wyk de Vries, M., MacGregor, K.; <i> Annals of Glaciology,</i> **2024**:  [https://doi.org/10.1017/aog.2024.21](https://doi.org/10.1017/aog.2024.21){:target="_blank"}|
+|[1] **Increasing rate of 21st century volume loss of the Patagonian Icefields measured from proglacial river discharge**; Van Wyk De Vries, M., Romero, M., <i>**Penprase, S.**</i>, Ng, G.-H.C., and Wickert, A.D.; <i>Journal of Glaciology,</i> **2023**: [https://doi.org/10.1017/jog.2023.9](https://doi.org/10.1017/jog.2023.9){:target="_blank"}|
  
 
 

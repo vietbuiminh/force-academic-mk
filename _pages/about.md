@@ -15,20 +15,20 @@ header:
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
 ---
-I’m interested in using natural systems to address broad geomorphic questions and connecting field-based and remote-sensing approaches to understand the impacts of climate and deglaciation on Earth’s landscapes.
+I study the impacts of climate, deglaciation, and humans on Earth's landscapes using a combination of field-based and remote-sensing approaches. My work spans a wide range of timescales, from the Last Glacial Maximum 20,000 years ago to the modern day.
 
-I received my PhD from the University of Minnesota and graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area. To learn more about my current projects, see my Research Page.
-## Contact: 
-shanti.b.penprase@dartmouth.edu 
+I am currently the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I received my PhD from the University of Minnesota and graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area.
+<div></div>
+<b>Contact: <a href="mailto:shanti.b.penprase@dartmouth.edu">shanti.b.penprase@dartmouth.edu</a></b> 
 <figure class="half">
 	<img src="/assets/images/banners/IMG_2277.JPG" class="test-class">
 	<img src="/assets/images/IMG_5616_2.JPG">
-	<figcaption>Left: OSL lab aftermath, Right: Augering on a river terrace. </figcaption>
+	<figcaption><p class="text-center">Left: Optically Stimulated Luminscence dating aftermath at the Utah State Luminescence Laboratory <br> Right: Augering on a river terrace in the Whitewater River Valley.</p></figcaption>
 </figure> 
 
 ## Affiliations
 
-* [Department of Earth Sciences, Dartmouth College](https://earthsciences.dartmouth.edu/)
-* [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl)
-* [MNiMorph Group, University of Minnesota](https://mnimorph.github.io/)
+* [Department of Earth Sciences, Dartmouth College](https://earthsciences.dartmouth.edu/){:target="_blank"}
+* [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl){:target="_blank"}
+* [MNiMorph Group, University of Minnesota](https://mnimorph.github.io/){:target="_blank"}
 
