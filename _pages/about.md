@@ -26,7 +26,7 @@ Outside of work, I love hiking, swimming, yoga, baking, and reading historical f
 <b>Contact: <a href="mailto:shanti.b.penprase@dartmouth.edu">shanti.b.penprase@dartmouth.edu</a></b> 
 
 <figure class="third">
-    <img src="/assets/images/IMG_0725.JPG" alt="Aklavik Fieldwork" alt="Gallery 1" class="test-class"><img src="/assets/images/banners/IMG_2277.JPG" alt="Lab work" class="test-class">
+    <img src="/assets/images/IMG_0725.JPG" alt="Aklavik Fieldwork" class="test-class"><img src="/assets/images/banners/IMG_2277.JPG" alt="Lab work" class="test-class">
 	<img src="/assets/images/IMG_5616_2.JPG" alt="River terrace sampling">
 	<figcaption><p class="text-center"> Left: Fieldwork in the Aklavik Range, NWT, Canada <br> Middle: Luminescence dating at Utah State University, USA <br> Right: Augering river terraces in Southeastern Minnesota, USA </p></figcaption>
 </figure>
