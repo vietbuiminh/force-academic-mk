@@ -40,7 +40,7 @@ feature_row:
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: assets/images/IMG_5543_2_crop2.jpeg
+- image_path: assets/images/IMG_5543_2_2crop2.jpeg
   title: "Plow vs Ice Age"
   excerpt: "Paper in Geology, project featured in Science Magazine"
   url: "/about"
