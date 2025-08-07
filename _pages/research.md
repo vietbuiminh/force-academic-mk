@@ -40,8 +40,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"      
 ---
-I address my research questions using a number of approaches, including **remote sensing, laboratory experimentation, field measurements, and geochronology (optically stimulated luminescence and <sup>10</sup>Be cosmogenic nuclide dating).**<br><br><i>Please feel free to click through each project to learn more about what I'm working on.</i>
+<i>Please feel free to click through each project to learn more about what I'm working on.</i>
 
 {%include feature_row%}
-
-
