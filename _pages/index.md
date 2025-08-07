@@ -26,7 +26,7 @@ feature_row:
     url: "http://spenprase.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/IMG_4249.PNG
+  - image_path: /assets/images/IMG_0573.JPG
     alt: "Research"
     title: "Research"
     excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, remote sensing, and modeling approaches."

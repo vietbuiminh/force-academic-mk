@@ -9,7 +9,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.
+excerpt:
 
 overlay_color: "#000"
 overlay_filter: "0.5"
@@ -40,19 +40,19 @@ feature_row:
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: /assets/images/Beaver_HouseSedimentation_1938.jpg
+- image_path: assets/images/IMG_5543_2.JPG
   title: "Plow vs Ice Age"
   excerpt: "Paper in Geology, project featured in Science Magazine"
   url: "/about"
   btn_label: "Explore"
   btn_class: "btn--primary"
-- image_path: /assets/images/DSC2877.JPG
+- image_path: /assets/images/IMG_7580.JPG
   title: "Post-glacial meltwater rerouting in the Upper Mississippi River"
   excerpt: "Using sediment cores to study glacial drainage reorganization during ice retreat."
   url: "/research"
   btn_label: "Explore"
   btn_class: "btn--primary"
-- image_path: /assets/images/banners/UpsalaMountainsClouds.JPG
+- image_path: /assets/images/IMG_3837.png
   title: "Collaborator projects, fluvial systems, and geochronology"
   excerpt: "Thioois is the first row."
   url: "/research"
@@ -60,6 +60,7 @@ feature_row2:
   btn_class: "btn--primary"
 
 ---
+<i>I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts. Please feel free to click through the links below to learn more about my research projects.</i>
 
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
@@ -68,27 +69,6 @@ feature_row2:
 
 
 
-**Past Projects**
+<p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects</p>
 
 {% include feature_row id="feature_row2" %}
-
-Trying to add a carousel below
-
-<div class="carousel">
-  <div><img src="/assets/images/DSC2877.JPG" alt="Gallery 1"></div>
-  <div><img src="/assets/images/DSC2877.JPG" alt="Gallery 2"></div>
-  <div><img src="/assets/images/DSC2877.JPG" alt="Gallery 3"></div>
-</div>
-
-// /assets/js/slick-init.js
-$(document).ready(function(){
-$('.carousel').slick({
-dots: true,
-infinite: true,
-speed: 500,
-slidesToShow: 1,
-autoplay: true,
-autoplaySpeed: 3000
-});
-});
-
