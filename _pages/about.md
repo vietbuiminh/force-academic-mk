@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
-excerpt: I am currently working at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I grew up in southern California but have learned to love seasons (and snow!) from my time in New Hampshire and Minnesota. Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
+excerpt: I am currently at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I grew up in southern California but have learned to love seasons (and snow!) from my time in New Hampshire and Minnesota. Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
 ---
 * PhD, University of Minnesota
   * Thesis: <i>"Sediment, Water, Change: Post-Glacial to Post-Settlement evolution of the Upper Mississippi River Valley"</i>
@@ -25,7 +25,7 @@ excerpt: I am currently working at Dartmouth College as the Guarini Dean's Postd
 <figure class="third">
     <img src="/assets/images/IMG_0725.JPG" alt="Aklavik Fieldwork" class="test-class"><img src="/assets/images/banners/IMG_2277.JPG" alt="Lab work" class="test-class">
 	<img src="/assets/images/IMG_5616_2.JPG" alt="River terrace sampling">
-	<figcaption><p class="text-center"> Left: Fieldwork in the Aklavik Range, NWT, Canada <br> Middle: Luminescence dating at Utah State University, USA <br> Right: Augering river terraces in Southeastern Minnesota, USA </p></figcaption>
+	<figcaption><p class="text-center"> Left: Fieldwork in the Aklavik Range, NWT, Canada; Middle: Luminescence dating at Utah State University, USA; Right: Augering river terraces in Southeastern Minnesota, USA </p></figcaption>
 </figure>
 ## Affiliations
 * Dartmouth College: [Department of Earth Sciences](https://earthsciences.dartmouth.edu/){:target="_blank"}

@@ -11,7 +11,7 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Alluvial fans in the Aklavik Range, NWT, Canada"  
-excerpt:
+excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes. <br />
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -20,31 +20,39 @@ author_profile: true
 #  
 feature_row:
   - image_path: /assets/images/IMG_1834.JPG
+    image_size: 100px
     alt: "About"
     title: "About"
-    excerpt: ""
+    excerpt: "As someone who grew up on southern California (and had never seen snowfall before college!) but now loves to study glacial landscapes, I like to think of myself as <q>from SoCal to so cold!</q>"
     url: "http://spenprase.github.io/about/"
-    btn_label: "Read More"
+    btn_label: "About Page"
     btn_class: "btn--inverse"
   - image_path: /assets/images/IMG_0573.JPG
     alt: "Research"
+    image_size: 20px
     title: "Research"
     excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, remote sensing, and modeling approaches."
     url: "http://spenprase.github.io/research/"
-    btn_label: "Read More"
+    btn_label: "Research Page"
     btn_class: "btn--inverse"
   - image_path: /assets/images/DSC_0274_export.jpg
     alt: "Teaching"
+    image_size: 500px
     title: "Teaching and Mentoring"
-    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to my teaching, mentoring undergraduate students, and research collaborations."
+    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to teaching and mentoring undergraduate students."
     url: "http://spenprase.github.io/teaching/"
-    btn_label: "Read More"
+    btn_label: "Teaching Page"
     btn_class: "btn--inverse"      
 ---
-I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes. <br />
 
 {%include feature_row%}
 
-<p style="font-size: 2.0rem; font-weight: bold">Latest News: <i>Feature on Science.org</i> </p>
+<p style="font-size: 2.0rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
+My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiaion of Euro-American agriculture in the upper Missisisppi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
 
-My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. Click here to read the article and learn more about my work.
+**[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this exciting project.**
+
+<figure class="0.75">
+	<img src="/assets/images/Science%20Article%20Preview.png" alt="Science Article preview">
+	<figcaption></figcaption>
+</figure>

@@ -6,3 +6,15 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* force feature row images to uniform size (cropped, not distorted) */
+.feature-row img,
+.feature__item img,
+.feature__media img,
+.feature__thumb img,
+.feature__image img {
+  width: 100% !important;       /* fill column width */
+  height: 250px !important;     /* pick the desired height */
+  object-fit: cover !important; /* crop to fill box without distortion */
+  display: block !important;
+}
