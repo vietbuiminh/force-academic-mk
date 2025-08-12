@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.
+excerpt: I study the impacts of climate, deglaciation, and humans on Earth's landscapes using a combination of remote-sensing, laboratory, and field-based approaches. My work spans a wide range of timescales, from the Last Glacial Maximum (~20,000 years ago) to the modern day.
 # Includes author profile in sidebar
 #author: Shanti Penprase
 #author_profile: true

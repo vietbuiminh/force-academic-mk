@@ -45,3 +45,6 @@ I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences 
 
 {%include feature_row%}
 
+<p style="font-size: 2.0rem; font-weight: bold">Latest News: <i>Feature on Science.org</i> </p>
+
+My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. Click here to read the article and learn more about my work.

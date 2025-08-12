@@ -14,11 +14,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
+excerpt: I am currently working at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I grew up in southern California but have learned to love seasons (and snow!) from my time in New Hampshire and Minnesota. Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
 ---
-I am currently working at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I study the impacts of climate, deglaciation, and humans on Earth's landscapes using a combination of field-based and remote-sensing approaches. My work spans a wide range of timescales, from the Last Glacial Maximum 20,000 years ago to the modern day.
-
-Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
-
 * PhD, University of Minnesota
   * Thesis: <i>"Sediment, Water, Change: Post-Glacial to Post-Settlement evolution of the Upper Mississippi River Valley"</i>
 * BA, Carleton College, <i>Geology</i>
