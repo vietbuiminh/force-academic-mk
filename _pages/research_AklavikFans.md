@@ -9,7 +9,8 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt:
+excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts. <br><br> Please feel free to click through the links below to learn more about my research projects.
+
 
 overlay_color: "#000"
 overlay_filter: "0.5"
@@ -21,20 +22,20 @@ permalink: /test/
 
 feature_row:
 - image_path: /assets/images/DSC2877.JPG
-  title: "Remote sensing, Arctic Fans, and periglaical sediment transport"
-  excerpt: "Arctic Fans in the Aklavik Range."
+  title: "Cool Fans"
+  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada"
   url: "/research"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
-  title: "Paleoclimate and Paleosedimentation using Lakes"
-  excerpt: "NSF proposal to look at lakes in Richardson mountains"
+  title: "Arctic Lake Cores"
+  excerpt: "Proposed NSF project to collect and study lake cores in the Richardson mountains, NWT, Canada to understand the relationship between climate and sedimentation rates."
   url: "/research"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
-  title: "Kettle Lake Formation Lab experiments"
-  excerpt: "Undergraduate project running lab experiments to study kettle lakes."
+  title: "Project <q>KEtTLE</q>" 
+  excerpt: "Using laboratory experiments to connect kettle lake formation mechanisms with landscape roughness and proglacial hydrology.<br>**(Undergraduate Student-Led Project)**"
   url: "/research"
   btn_label: "Learn More"
   btn_class: "btn--primary"
@@ -42,26 +43,24 @@ feature_row:
 feature_row2:
 - image_path: assets/images/IMG_5543_2_2crop2.jpeg
   title: "Plow vs Ice Age"
-  excerpt: "Paper in Geology, project featured in Science Magazine"
+  excerpt: "Comparing thousand-year post-glacial landscape erosion rates to decadal post-Euro-American erosion rates in the upper Mississippi River Valley. <br> **(Project recently featured on Science.org)**"
   url: "/about"
-  btn_label: "Explore"
+  btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/IMG_7580.JPG
-  title: "Post-glacial meltwater rerouting in the Upper Mississippi River"
-  excerpt: "Using sediment cores to study glacial drainage reorganization during ice retreat."
+  title: "Meltwater, Mud, and the Mississippi"
+  excerpt: "Using fine-grained, slackwater sediment cores to study glacial drainage reorganization during ice retreat."
   url: "/research"
-  btn_label: "Explore"
+  btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/IMG_3837.png
-  title: "Collaborator projects, fluvial systems, and geochronology"
-  excerpt: "Thioois is the first row."
+  title: "Collaborations"
+  excerpt: "Collaborator-driven research, including several co-authored publications focused on the Southern Patagonian Ice Field."
   url: "/research"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 ---
-<i>I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts. Please feel free to click through the links below to learn more about my research projects.</i>
-
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
 
