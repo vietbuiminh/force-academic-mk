@@ -1,17 +1,17 @@
 ---
 layout: single
-title: "Meltwater, Mud, and the Mississippi"
+title: "Meltwater, Mud, and the Mississippi (Undergraduate Advisee)"
 permalink: /research/meltwater-mud
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/IMG_1728 2.JPG
+  overlay_image: /assets/images/Dartmouth/mud_header.JPG
   actions:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Mississippi River in Autumn
-excerpt: This work, completed at the University of Minnesota, is focused understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
+excerpt: How do tributary sediments record deglacial meltwater drainage reorganization for the Mississippi River?
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -23,29 +23,19 @@ author_profile: true
 toc: true
 toc_sticky: true        
 ---
-# Paraglacial Landscape Evolution in the Upper Mississippi River Valley
-## Plow versus Ice Age: Human and climatic impacts on erosion rates in the Upper Mississippi River Valley
- 
-Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
 
-See: <i>Penprase et al. (2025)</i> 
+# What are slackwater sediments?
 
-<figure class="half">
-	<img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
-	<img src="/assets/images/IMG_5543_2.JPG">
-	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
+Slackwater sediments are deposited at the mouths of tributaries due to inundation by water along the mainstem river. These fine-grained deposits preserve sediments carried down the mainstem river.
+
+
+<figure class="single">
+	<img src="/assets/images/Slackwater_horizontal.png">
+	<figcaption>Schematic diagram showing the deposition of slackwater sediments in the Whitewater River Valley. </figcaption>
 </figure>
-
-## Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing <i>(Undergraduate Advisees)</i>
 
 In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
- 
-<figure class="half">
-	<img src="/assets/images/Slackwater_horizontal.png">
-		<img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg">
-	<figcaption>Left: Schematic diagram showing the depsotion of slackwater sediments. Right: Close up of slackwater sediments.</figcaption>
-</figure>
- 
+
 ## Glacially Modulated Base Level Change Impacts on River Channel Long Profile
 
 As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of glacial sediment and meltwater dramatically altered base level for tributaries connected to the then proglacial Mississippi River. By pairing glacial chronology with river channel long profile evolution and bedrock morphology during this period, we are able to build a field-based dataset that demonstrates how rivers respond to changing base level without additional tectonic signals. This, in turn, allows us to test models of how transport-limited river systems respond to perturbations using real world, physically-based data. 
