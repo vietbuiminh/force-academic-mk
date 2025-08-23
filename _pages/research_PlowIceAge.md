@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Paraglacial Processes and Land-Use Change in the Upper Mississippi River"
-permalink: /research/paraglacial-Mississippi-River
+title: "Plow vs Ice Age"
+permalink: /research/plow-vs-ice
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"

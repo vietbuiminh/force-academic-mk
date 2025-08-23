@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Cool Fans"
-permalink: /research/cool-fans
+title: "Arctic Lake Cores"
+permalink: /research/arctic-lake-cores
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"

@@ -24,19 +24,19 @@ feature_row:
 - image_path: /assets/images/DSC2877.JPG
   title: "Cool Fans"
   excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada"
-  url: "/research"
+  url: "/research/cool-fans"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
   title: "Arctic Lake Cores"
   excerpt: "Proposed NSF project to collect and study lake cores in the Richardson mountains, NWT, Canada to understand the relationship between climate and sedimentation rates."
-  url: "/research"
+  url: "/research/arctic-lake-cores"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
   title: "Project <q>KEtTLE</q>" 
   excerpt: "Using laboratory experiments to connect kettle lake formation mechanisms with landscape roughness and proglacial hydrology.<br>**(Undergraduate Student-Led Project)**"
-  url: "/research"
+  url: "/research/kettle"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
@@ -44,13 +44,13 @@ feature_row2:
 - image_path: assets/images/IMG_5543_2_2crop2.jpeg
   title: "Plow vs Ice Age"
   excerpt: "Comparing thousand-year post-glacial landscape erosion rates to decadal post-Euro-American erosion rates in the upper Mississippi River Valley. <br> **(Project recently featured on Science.org)**"
-  url: "/about"
+  url: "/research/plow-vs-ice"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/IMG_7580.JPG
   title: "Meltwater, Mud, and the Mississippi"
   excerpt: "Using fine-grained, slackwater sediment cores to study glacial drainage reorganization during ice retreat."
-  url: "/research"
+  url: "/research/meltwater-mud"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/IMG_3837.png

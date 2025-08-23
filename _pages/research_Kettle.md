@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Cool Fans"
-permalink: /research/cool-fans
+title: "Project Kettle"
+permalink: /research/kettle
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
