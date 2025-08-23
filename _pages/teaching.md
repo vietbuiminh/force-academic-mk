@@ -23,26 +23,26 @@ permalink: /teaching/
 feature_row:
 - image_path: /assets/images/DSC2877.JPG
   title: "Teaching"
-  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada"
+  excerpt: ""
   url: "/teaching/overview"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
   title: "Undergraduate Mentoring"
-  excerpt: "Proposed NSF project to collect and study lake cores in the Richardson mountains, NWT, Canada to understand the relationship between climate and sedimentation rates."
+  excerpt: ""
   url: "/teaching/mentoring"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: /assets/images/DSC2877.JPG
   title: "Service and Community Building" 
-  excerpt: "Using laboratory experiments to connect kettle lake formation mechanisms with landscape roughness and proglacial hydrology.<br>**(Undergraduate Student-Led Project)**"
+  excerpt: ""
   url: "/teaching/service"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 
 ---
-<p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
+
 {% include feature_row id="feature_row" %}
 
 <!-- Other content -->
