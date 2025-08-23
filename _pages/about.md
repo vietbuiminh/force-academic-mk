@@ -12,8 +12,8 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/IMG_1728 2.JPG
-  caption: "Mississippi River in Autumn"
+  overlay_image: /assets/images/Dartmouth/CV_headerimage.JPG
+  caption: "Alluvial Fans in the Aklavik Range, Canada"
 excerpt: I am currently at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I grew up in southern California but have learned to love seasons (and snow!) from my time in New Hampshire and Minnesota. Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
 ---
 * PhD, University of Minnesota

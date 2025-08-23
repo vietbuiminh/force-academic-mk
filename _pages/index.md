@@ -23,17 +23,17 @@ feature_row:
     image_size: 100px
     alt: "About"
     title: "About"
-    excerpt: "As someone who grew up on southern California (and had never seen snowfall before college!) but now loves to study glacial landscapes, I like to think of myself as <q>from SoCal to so cold!</q>"
+    excerpt: "As someone who grew up in southern California (and had never seen snowfall before college!) but now loves to study glacial landscapes, I like to think of myself as <q>from SoCal to so cold!</q>"
     url: "http://spenprase.github.io/about/"
-    btn_label: "About Page"
+    btn_label: "About Me"
     btn_class: "btn--inverse"
   - image_path: /assets/images/IMG_0573.JPG
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "I study how deglacial landscapes evolve over time and respond to climatic and athropogenic perturbations using a combination of field, lab, remote sensing, and modeling approaches."
+    excerpt: "I study how landscapes evolve over time and respond to changes in climate, glaciation and human activity using a combination of remote sensing, field, lab, and computational approaches."
     url: "http://spenprase.github.io/research/"
-    btn_label: "Research Page"
+    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/DSC_0274_export.jpg
     alt: "Teaching"
@@ -41,13 +41,13 @@ feature_row:
     title: "Teaching and Mentoring"
     excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to teaching and mentoring undergraduate students."
     url: "http://spenprase.github.io/teaching/"
-    btn_label: "Teaching Page"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"      
 ---
 
 {%include feature_row%}
 
-<p style="font-size: 2.0rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
+<p style="font-size: 1.8rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
 My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiaion of Euro-American agriculture in the upper Missisisppi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
 
 **[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this exciting project.**

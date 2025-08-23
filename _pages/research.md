@@ -1,8 +1,6 @@
 ---
 layout: splash
 title: "Research"
-permalink: /research/
-hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
@@ -11,35 +9,65 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I study the impacts of climate, deglaciation, and humans on Earth's landscapes using a combination of remote-sensing, laboratory, and field-based approaches. My work spans a wide range of timescales, from the Last Glacial Maximum (~20,000 years ago) to the modern day.
-# Includes author profile in sidebar
-#author: Shanti Penprase
-#author_profile: true
-#classes: wide
+excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.
 
-# 
+
+overlay_color: "#000"
+overlay_filter: "0.5"
+overlay_image: /assets/images/DSC2877.JPG
+actions:
+- label: "Get Started"
+url: "/test/"
+permalink: /research/
+
 feature_row:
-  - image_path: /assets/images/Aklavik Range_Mapped.png
-    alt: "Arctic"
-    title: "Arctic Fans, Kettle Lakes, and Periglacial Processes"
-    excerpt: "**Periglacial** landscapes, or **landscapes shaped by active freeze-thaw processes and/or in proximity to glaciers**, are the first phase of processes that change the landscape following glaciation. This work focuses on two major landforms found in cold regions: alluvial fans and kettle lakes."
-    url: "http://spenprase.github.io/research/arctic-periglacial"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"  
-  - image_path: /assets/images/Beaver_HouseSedimentation_1938.jpg
-    alt: "Post-glacial landscape evolution, Land-Use Change, and Fluvial Systems"
-    title: "Post-glacial Landscape Evolution, Land-Use Change, and Fluvial Systems"
-    excerpt: "**Paraglacial** landscapes, or **landscapes recovering from the impacts of glaciation**, can still be shaped by glacially-driven processes thousands of years after ice retreat. In the Upper Mississippi River Valley, I address questions spanning from the Last Glacial Maximum to Euro-American settlement to understand how river systems are shaped by changes in climate, erosion rate, and post-glacial processes."
-    url: "http://spenprase.github.io/research/paraglacial-Mississippi-River"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/banners/UpsalaMountainsClouds.JPG
-    title: "Collaborative Research Projects"
-    excerpt: "I've been fortunate to be a part of a number of projects led by other scientists, including **extensive work on deglaciation in the Southern Patagonian Icefield, Argentina.**"
-    url: "http://spenprase.github.io/research/collaborations"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"      
----
-<i>Please feel free to click through each project to learn more about what I'm working on.</i>
+- image_path: /assets/images/IMG_0573.JPG
+  title: "Cool Fans"
+  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada"
+  url: "/research/cool-fans"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: assets/images/Dartmouth/lake_crew.JPG
+  title: "Arctic Lake Cores"
+  excerpt: "Proposed NSF project to collect and study lake cores in the Richardson mountains, NWT, Canada to understand the relationship between climate and sedimentation rates."
+  url: "/research/arctic-lake-cores"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: assets/images/Dartmouth/kettlebox_prep2.JPG
+  title: "Project <q>KEtTLE</q>" 
+  excerpt: "Laboratory experiments using off the shelf supplies to study kettle lake formation mechanisms, landscape roughness, and linkages to proglacial landscapes.<br>**(Undergraduate Student-Led Project)**"
+  url: "/research/kettle"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
 
-{%include feature_row%}
+feature_row2:
+- image_path: assets/images/IMG_5543_2_2crop2.jpeg
+  title: "Plow vs Ice Age"
+  excerpt: "Comparing thousand-year post-glacial landscape erosion rates to decadal post-Euro-American erosion rates in the upper Mississippi River Valley. <br> **(Project recently featured on Science.org)**"
+  url: "/research/plow-vs-ice"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/IMG_7580.JPG
+  title: "Meltwater, Mud, and the Mississippi"
+  excerpt: "Using fine-grained, slackwater sediment cores to study glacial drainage reorganization during the retreat of the Laurentide Ice Sheet."
+  url: "/research/meltwater-mud"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/IMG_3837.png
+  title: "Other Research Projects"
+  excerpt: "Collaborator-driven research, including several co-authored publications focused on the Southern Patagonian Ice Field."
+  url: "/research"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+---
+<p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
+{% include feature_row id="feature_row" %}
+
+<!-- Other content -->
+
+
+
+<p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects</p>
+
+{% include feature_row id="feature_row2" %}
