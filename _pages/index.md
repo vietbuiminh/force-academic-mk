@@ -48,7 +48,7 @@ feature_row:
 {%include feature_row%}
 
 <p style="font-size: 1.8rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
-My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiaion of Euro-American agriculture in the upper Missisisppi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
+My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiation of Euro-American agriculture in the upper Mississippi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
 
 **[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this exciting project.**
 

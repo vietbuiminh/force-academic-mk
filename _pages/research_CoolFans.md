@@ -46,7 +46,7 @@ gallery:
   title: "Looking North towards the Mackenzie Delta"
 
 ---
-<b>This project uses remote sensing to understand sedimentation processes of alluvial fans in the Richardson and Mackenzie Mountains of Canada's Arctic.</b>
+<b>This project uses remote sensing to understand sedimentation processes of alluvial fans in the Richardson and Mackenzie Mountains of Canada's Arctic.</b> It is part of a manuscript in prep (see publications page).
 
 # Overview Video 
 Check out the video below to learn more about the project, my research, and see some awesome footage of the Aklavik Range.

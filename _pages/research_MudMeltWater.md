@@ -55,3 +55,69 @@ As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of 
 	<img src="/assets/images/banners/IMG_0211.JPG">
 	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
 </figure>
+
+<figure class="half image-row">
+  <div class="image-container">
+    <img src="/assets/images/Dartmouth/mud_grayclay.jpeg" alt="Gray Clay">
+  </div>
+  <div class="image-container">
+    <img src="/assets/images/Dartmouth/mud_redclay.jpeg" alt="Red Clay">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
+
+<figure class="half image-row">
+  <div class="image-container">
+    <img src="/assets/images/Dartmouth/slackwater_abby.JPG" alt="Abby Poster Session">
+  </div>
+  <div class="image-container">
+    <img src="/assets/images/Dartmouth/slackwater_abbylab.JPG" alt="Abby Working in Lab">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
+
+<figure class="single-image">
+  <div class="image-container">
+    <img src="/assets/images/Dartmouth/mud_core.png" alt="Mud Core">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
+
+<figure class="single">
+
+  <div class="image-container">
+    <img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg" alt="Weaver Pull">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
+
+<figure class="half image-row">
+  <div class="image-container">
+    <img src="/assets/images/DSC_7521.jpeg" alt="Standing in River">
+  </div>
+  <div class="image-container">
+    <img src="/assets/images/IMG_0738.jpg" alt="Group Photo">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Middle: Luminescence dating at Utah State University, USA; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
+

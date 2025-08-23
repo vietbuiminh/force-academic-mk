@@ -85,3 +85,43 @@ figure + p {
   margin-top: 0.5rem;  /* less gap between figure and next paragraph */
 }
 
+.triple-image {
+  display: flex;
+  gap: 1rem;           /* space between images */
+  flex-wrap: wrap;      /* allow stacking on smaller screens */
+  margin-bottom: 1rem;
+}
+
+.triple-image .image-container {
+  flex: 1;              /* equal width */
+  overflow: hidden;
+  position: relative;   /* needed for aspect ratio */
+}
+
+/* Maintain equal height proportionally */
+.triple-image .image-container::before {
+  content: "";
+  display: block;
+  padding-top: 66.66%; /* adjust aspect ratio as needed */
+}
+
+.triple-image .image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;    /* crop to fill container */
+  display: block;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .triple-image .image-container::before {
+    padding-top: 0;
+  }
+  .triple-image .image-container img {
+    position: relative;
+    height: auto;
+  }
+}

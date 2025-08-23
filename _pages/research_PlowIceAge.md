@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Mississippi River in Autumn
-excerpt: This work, completed at the University of Minnesota, is focused understanding how **changes in climate, glaciation, and land use impact the morphology of river catchments** and connecting landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
+excerpt: In the Upper Mississippi River Valley, how does the increase in erosion rate triggered by Euro-American agriculture compare to erosion rates during deglaciation?
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -23,35 +23,67 @@ author_profile: true
 toc: true
 toc_sticky: true        
 ---
-# Paraglacial Landscape Evolution in the Upper Mississippi River Valley
-## Plow versus Ice Age: Human and climatic impacts on erosion rates in the Upper Mississippi River Valley
- 
-Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. In this project I use a paired geochronology (cosmogenic <sup>10</sup>Be and optically stimulated luminescence) approach to construct a pre-settlement, late Pleistocene paleoerosion chronology to better contextualize the impacts of Euro-American agriculture on this landscape. I additionally relate paleoerosion rate variability to paleoenvironmental shifts prior to settlement.
+# Deglacial versus human-induced erosion rates in the Upper Mississippi River Valley
 
-See: <i>Penprase et al. (2025)</i> 
+Euro-American settlement irrevocably altered the landscapes of the Upper Midwest and dramatically increased erosion and sedimentation within river valleys. 
 
-<figure class="half">
-	<img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
-	<img src="/assets/images/IMG_5543_2.JPG">
-	<figcaption>Left: Sedimentation in Whitewater River Valley circa 1938, Right: Buried pre-settlement soil</figcaption>
+<figure class="single-image">
+  <img src="/assets/images/Beaver_HouseSedimentation_1938.jpg">
+  <figcaption>
+    <p class="text-center">
+      A house buried by sediment in the Whitewater River Valley (1938). Massive sediment flows were triggered by the introduction of plow-based agricultural practices to the region starting in the 1850s. <br><i>Image courtesy of Winona County Historical Society.</i>
+    </p>
+  </figcaption>
 </figure>
 
-## Glacially-Derived Slackwater Sediments and Deglacial Meltwater Routing <i>(Undergraduate Advisees)</i>
+## Project Framing
+This work, published in <i>Geology</i> and featured on <i>Science.org</i>, is focused understanding how changes in climate, glaciation, and land use impact the morphology of river catchments. The project connects landscapes of the icy past from the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
 
-In this project, I am working with UMN Undergraduate Abigail Wilwerding, to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota. We are using a combination of core description, optically stimulated luminescence (OSL) and X-ray fluorescence (XRF) to identify these sediments and relate their deposition to past glacial meltwater routing down the Mississippi River. This project aids our understanding glacial sedimentation and sediment sourcing of the Mississippi River during the most recent glacial period.
- 
-<figure class="half">
-	<img src="/assets/images/Slackwater_horizontal.png">
-		<img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg">
-	<figcaption>Left: Schematic diagram showing the depsotion of slackwater sediments. Right: Close up of slackwater sediments.</figcaption>
+
+<figure class="single-image">
+  <img src="/assets/images/Dartmouth/plow_presettle.JPG" alt="Presettlement Soil">
+  <figcaption>
+    <p class="text-center">
+      An example of an organic-rich pre-settlement soil exposed in a riverbank in the Whitewater River Valley. This soil layer was buried by almost 2 m of post-settlement soil deposited after the start of Euro-American agriculture.
+    </p>
+  </figcaption>
 </figure>
- 
-## Glacially Modulated Base Level Change Impacts on River Channel Long Profile
 
-As the Laurentide Ice Sheet retreated after the Last Glacial Maximum, pulses of glacial sediment and meltwater dramatically altered base level for tributaries connected to the then proglacial Mississippi River. By pairing glacial chronology with river channel long profile evolution and bedrock morphology during this period, we are able to build a field-based dataset that demonstrates how rivers respond to changing base level without additional tectonic signals. This, in turn, allows us to test models of how transport-limited river systems respond to perturbations using real world, physically-based data. 
+## Using geochronology to study paleoerosion rate
+To build a paleoerosion rate chronology, I pair cosmogenic <sup>10</sup>Be and optically stimulated luminescence dating. I relate pre-agricultural paleoerosion rate variability to paleoclimatic change and compare these shifts to increases seen post-Euro-American settlement.
 
-<figure class="half">
-	<img src="/assets/images/PXL_20220227_211207835.JPEG">
-	<img src="/assets/images/banners/IMG_0211.JPG">
-	<figcaption>Left: Vibracoring frozen sediments, Right: Seismic refraction of buried bedrock</figcaption>
+<figure class="single">
+  <img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Buried Soil">
+  <figcaption>
+    <p class="text-center">
+      Pointing to the top of the river bank above the buried pre-settlement soil. All the material between the top of the bank and the buried soil has been deposited after 1850 CE.
+    </p>
+  </figcaption>
 </figure>
+
+I completed lab work for this project at the UMass Amherst Cosmogenic Nuclide Laboratory with Prof. Isaac Larsen and at the Utah State Luminescence Laboatory with Prof. Tammy Rittenour.
+
+<figure class="half image-row">
+  <div class="image-container">
+    <img src="/assets/images/IMG_1618.JPEG" alt="Heating Sample">
+  </div>
+  <div class="image-container">
+    <img src="/assets/images/IMG_4005.JPG" alt="Pouring Sample">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Processing samples for cosmogenic nuclide dating at UMass Amherst. This process involves dissolving quartz grains in hydrofluoric acid and using ion exchange columns to isolate Be-10 for analysis.
+    </p>
+  </figcaption>
+</figure>
+
+# Feature on Science.org
+In addition to being published in <i>Geology</i>, this project was also featured in an article on <i>Science.org.</i>
+
+**[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this project.**
+
+<figure class="0.75">
+	<img src="/assets/images/Science%20Article%20Preview.png" alt="Science Article preview">
+	<figcaption></figcaption>
+</figure>
+

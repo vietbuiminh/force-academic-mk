@@ -10,8 +10,8 @@ header:
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: Alluvial fans in the Aklavik Range, NWT, Canada
-excerpt: How do permafrost and Arctic climate shape sediment transport in alluvial fans? <br>This project seeks to understand the unique processes of Arctic fans using remote sensing of alluvial fans in the Richardson and Mackenzie Mountains in Canada.
+  caption: Lakes in the Mackenzie River Delta, Canada
+excerpt: How does changing climate impact the amount of sediment being transported across Arctic landscapes?
 # Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true
@@ -21,38 +21,63 @@ toc_sticky: true
 gallery:
   - url: /assets/images/Dartmouth/lake_lakeA.JPG
     image_path: /assets/images/Dartmouth/lake_lakeA.JPG
-    alt: "Catchment of Black Mountain Fan, Aklavik Range, Canada"
-    title: "Catchment of Black Mountain Fan, Aklavik Range, Canada"
+    alt: "Our scouting lake"
+    title: "An image of the lake where we collected preliminary data in the NWT, Canada."
   - url: /assets/images/lake_setup.JPG
     image_path: /assets/images/lake_setup.JPG
-    alt: "Boat ride up to the Aklavik Range, Summer 2025"
-    title: "Boat ride up to the Aklavik Range, Summer 2025"
+    alt: "Inflating the boat"
+    title: "Inflating our boat to collect preliminary data."
   - url: assets/images/lake_plateau.JPG
     image_path: assets/images/lake_plateau.JPG
-    alt: "Remote sensing mapping catchments and fans"
-    title: "Remote sensing mapping catchments and fans"
+    alt: "Isolated lake"
+    title: "An image of another, isolated lake we are interested in studying for longer term signals."
   - url: /assets/images/Dartmouth/lake_core.JPG
     image_path: /assets/images/Dartmouth/lake_core.JPG
-    alt: "View of fans along the Aklavik Range, Canada"
-    title: "View of fans along the Aklavik Range, Canada"
+    alt: "Lake core"
+    title: "Our preliminary sediment core from lake scouting."
   
 
 ---
-# Title
+# Lakes as an Archive
+Lakes are a valuable record of landscape change and in the Arctic, where processes are particularly sensitive to changes in climate, lake sediment records preserve changes over time.
 <figure class="single-image">
   <img src="/assets/images/Dartmouth/lakes_body_header.JPG" alt="Lake Landscape">
   <figcaption>  
-      Fieldwork in the Aklavik Range, NWT, Canada  
+      Lakes near the mouth of Willow River, NWT, Canada. The lake in the foreground is where we collected preliminary sediment and bathymetry data in Summer 2025.   
   </figcaption>
 </figure>
-Maecenas vestibulum, orci ut luctus eleifend, lacus nisi bibendum felis, rhoncus accumsan lacus eros sed nisl. Praesent eget vestibulum leo. 
 
-<figure class="half">
-    <img src="/assets/images/Dartmouth/lake_helicopter.JPG" alt="Lake Core Helicopter">
-	<img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Lake Core Crew">
-	<figcaption><p class="text-center"> Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA </p></figcaption>
+# Overview Video
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/sW7cnWuq7w4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Project Framing
+In this project, which I am developing into an NSF proposal with several collaborators at Dartmouth College, we will explore how changes in climate over the Holocene impacted sedimentation and sediment transport in the Arctic. 
+
+<figure class="single-image">
+  <img src="/assets/images/Dartmouth/lake_helicopter.JPG" alt="Lake Core Helicopter">
+  <figcaption>
+    <p class="text-center">
+      Remote lakes mean adventurous ways to get there! For our preliminary data, we took a helicopter to visit our proposed field areas.
+    </p>
+  </figcaption>
 </figure>
-Vestibulum tempor, nisi sit amet iaculis gravida, massa dui aliquam leo, eu lobortis enim arcu a felis. Quisque hendrerit justo laoreet egestas ultricies
+The project is focused on several lakes in the Aklavik Range of the Richardson Mountains, NWT, Canada. Our lakes include those who actively receive sediment from the Aklavik Range and others that remain isolated and perched on the plateau. 
+<figure class="single-image">
+  <img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Lake Core Crew">
+  <figcaption>
+    <p class="text-center">
+      Preliminary data collecting crew (Dr. Shanti Penprase and Prof. Marisa Palucis) and our lake scouting setup.
+    </p>
+  </figcaption>
+</figure>
+
+This paired study will answer key questions on how changing climate could result in increased sediment transport and sedimentation in Arctic regions.
+
+# Preliminary Data Collection: Summer 2025
+We collected preliminary data for this project in Summer 2025 from a lake in the Aklavik Range. This preliminary data included bathymetry, a gravity core of lake sediments, and tile probing of the lake bottom to understand potential lake grain size and sediment depth.
+
 <figure class="half image-row">
   <div class="image-container">
     <img src="/assets/images/lake_onboat.JPG" alt="View of Lake from Boat">
@@ -62,23 +87,21 @@ Vestibulum tempor, nisi sit amet iaculis gravida, massa dui aliquam leo, eu lobo
   </div>
   <figcaption>
     <p class="text-center">
-      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+      Left: Inflatable boat in action with tile probes to probe lake bottom sediments.;<br>Right: Lake setup on our scouting lake near the mouth of the Willow River (see photo at top of this page).
     </p>
   </figcaption>
 </figure>
-Mauris blandit non est a venenatis. Quisque placerat orci id enim rutrum sagittis sed eu ante. Donec aliquam sagittis lectus, eu dictum libero sodales vel.
+In addition to our in-depth data collection at one lake, we scouted several other lakes in the region and looked at lake inlets and outlets to better understand how sediment moves through this system.
 <figure class="single-image">
   <img src="/assets/images/lake_Shanti.JPG" alt="Standing in Lake">
   <figcaption>
     <p class="text-center">
-      Fieldwork in the Aklavik Range, NWT, Canada
+      Sometimes fieldwork requires getting your feet wet! Dr. Shanti Penprase in action with a gravity corer to collect a preliminary lake core.
     </p>
   </figcaption>
 </figure>
-Nullam fermentum a elit ac laoreet. Donec fringilla convallis magna nec facilisis. Donec laoreet odio arcu, sed pellentesque leo vulputate et. 
 
-~gallery with lake plateau, lake setup, lake core, lakeA (this goes in top of page seee cool fans for formatting and then you call it below)
-# Gallery of Field and Remote Sensing Images
+## Gallery of Images from Lake Scouting
 Click on each image to enlarge.
 
 {% include gallery layout="half" %}

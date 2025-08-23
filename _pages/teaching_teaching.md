@@ -44,7 +44,17 @@ I am teaching **Earth Surface Processes and Landforms (EARS 33)**, an upper-leve
 <li><b>Advanced Geomorphology</b>, Macalester College<br>
 <i>Geomorphology and geochronology lecture, activity, and facilitated class discussion</i></li>
 </ul>
+<figure class="single">
 
+  <div class="image-container">
+    <img src="/assets/images/Weaver_Pull3_f8_cropped.jpeg" alt="Weaver Pull">
+  </div>
+  <figcaption>
+    <p class="text-center">
+      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+    </p>
+  </figcaption>
+</figure>
 
 ## Teaching Assistantships
 
