@@ -9,7 +9,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I like to teach k0ll3ge courses
+excerpt: I empower my students to build knowledge, confidence, and skills to critically examine the interdisciplinary nature of climate, glaciation, remote sensing, and Earth surface processes.
 
 
 overlay_color: "#000"
