@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Cool Fans"
 permalink: /research/arctic-periglacial
 hidden: true
@@ -14,7 +14,10 @@ header:
 excerpt: How do permafrost and Arctic climate shape sediment transport in alluvial fans? <br>This project seeks to understand the unique processes of Arctic fans using remote sensing of alluvial fans in the Richardson and Mackenzie Mountains in Canada.
 # Includes author profile in sidebar
 author: Shanti Penprase
-author_profile: true       
+author_profile: true
+
+toc: true
+toc_sticky: true    
 ---
 
 # Overview of my Arctic research questions 
