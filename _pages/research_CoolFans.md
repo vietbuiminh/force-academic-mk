@@ -34,11 +34,11 @@ toc_sticky: true
     <!-- Overview Video -->
     <h2>Research Overview Video</h2>
     <p><div style="width: 700px; max-width: 100%; margin: auto;">
-<iframe
+<iframe>
 src="https://www.youtube.com/embed/yLqooQr2xmM"
 style="width:100%; height: 500px;"
 frameborder="0"
-allowfullscreen>
+allowfullscreen
 </iframe>
 </div></p>
   </div>
