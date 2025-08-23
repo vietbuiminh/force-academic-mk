@@ -19,8 +19,6 @@ author_profile: true
 toc: true
 toc_sticky: true 
 
-title: "Gallery Test"
-layout: single
 gallery:
 - url: /assets/images/Dartmouth/coolfans_blackmountain.JPG
   image_path: /assets/images/Dartmouth/coolfans_blackmountain.JPG

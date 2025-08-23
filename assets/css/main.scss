@@ -18,3 +18,70 @@
   object-fit: cover !important; /* crop to fill box without distortion */
   display: block !important;
 }
+
+/* Custom styles for side-by-side images */
+.image-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.image-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-container::before {
+  content: "";
+  display: block;
+  padding-top: 66.66%; /* adjust aspect ratio */
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .image-container::before {
+    padding-top: 0;
+  }
+  .image-container img {
+    position: relative;
+    height: auto;
+  }
+}
+
+.single-image {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.single-image img {
+  width: 100%;          /* responsive width */
+  max-height: 400px;    /* maximum height */
+  object-fit: cover;    /* crop if too tall */
+  display: block;
+}
+/* Reduce space after single images */
+figure.single-image,
+figure.half {
+  margin-bottom: 1rem; /* reduce default bottom spacing */
+}
+
+figure.single-image figcaption,
+figure.half figcaption {
+  margin-top: 0.5rem;   /* smaller gap between image and caption */
+  margin-bottom: 0.5rem; /* smaller gap after caption */
+}
+
+/* Reduce paragraph spacing immediately after figure */
+figure + p {
+  margin-top: 0.5rem;  /* less gap between figure and next paragraph */
+}
+

@@ -23,7 +23,7 @@ permalink: /research/
 feature_row:
 - image_path: /assets/images/IMG_0573.JPG
   title: "Cool Fans"
-  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada"
+  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada."
   url: "/research/cool-fans"
   btn_label: "Learn More"
   btn_class: "btn--primary"
