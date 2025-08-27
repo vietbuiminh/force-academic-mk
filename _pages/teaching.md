@@ -27,13 +27,13 @@ feature_row:
   url: "/teaching/overview"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/DSC2877.JPG
+- image_path: /assets/images/IMG_0738.jpg
   title: "Undergraduate Mentoring"
   excerpt: ""
   url: "/teaching/mentoring"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/DSC2877.JPG
+- image_path: /assets/images/DSC_0274_export.jpg
   title: "Service and Community Building" 
   excerpt: ""
   url: "/teaching/service"
