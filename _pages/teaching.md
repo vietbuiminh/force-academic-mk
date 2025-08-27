@@ -27,7 +27,7 @@ feature_row:
   url: "/teaching/overview"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/IMG_0738.jpg
+- image_path: /assets/images/Dartmouth/group_whitewater.JPG
   title: "Undergraduate Mentoring"
   excerpt: ""
   url: "/teaching/mentoring"

@@ -56,7 +56,7 @@ feature_row2:
 - image_path: /assets/images/IMG_3837.png
   title: "Other Research Projects"
   excerpt: "Collaborator-driven research, including several co-authored publications focused on the Southern Patagonian Ice Field."
-  url: "/research"
+  url: "/research/collaborations"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 

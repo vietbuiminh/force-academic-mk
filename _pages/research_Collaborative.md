@@ -34,5 +34,14 @@ In this collaborative project (led by Matias Romero, University of Wisconsin Mad
 </figure>
 
 ## Automated Ablation Stakes
+<figure class="single">
+	<img src="/assets/images/Dartmouth/collab_ablationpic.JPG">
+	<figcaption>Ablation Stake</figcaption>
+</figure>
+
 
 ## Increasing 21st Century Melt in Patagonian Rivers
+<figure class="single">
+	<img src="/assets/images/Dartmouth/collab_onglacier.jpeg">
+	<figcaption></figcaption>
+</figure>

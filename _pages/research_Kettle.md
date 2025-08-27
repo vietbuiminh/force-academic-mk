@@ -51,6 +51,11 @@ This work is being completed by two Dartmouth undergraduate research students: L
 	<figcaption> Leveling the sandbox before an experiment. After the experiment is completed, we collect images for structure from motion photogrammetry to generate a digital elevation model of the sandbox surface. </figcaption>
 </figure>
 
+<figure class="single">
+	<img src="/assets/images/Dartmouth/Kettle_DEM.png">
+	<figcaption> Kettle DEM. </figcaption>
+</figure>
+
 
 
 
