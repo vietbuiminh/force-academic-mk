@@ -47,13 +47,15 @@ Lakes are a valuable record of landscape change and in the Arctic, where process
   </figcaption>
 </figure>
 
+In this project, which I am developing into an NSF proposal with several collaborators at Dartmouth College, we will explore how changes in climate over the Holocene impacted sedimentation and sediment transport in the Arctic.
+
 # Overview Video
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/sW7cnWuq7w4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Project Framing
-In this project, which I am developing into an NSF proposal with several collaborators at Dartmouth College, we will explore how changes in climate over the Holocene impacted sedimentation and sediment transport in the Arctic. 
+
+The project is focused on several lakes in the Aklavik Range of the Richardson Mountains, NWT, Canada. These lakes record post-glacial and recent changes in sedimentation.
 
 <figure class="single-image">
   <img src="/assets/images/Dartmouth/lake_helicopter.JPG" alt="Lake Core Helicopter">
@@ -63,7 +65,7 @@ In this project, which I am developing into an NSF proposal with several collabo
     </p>
   </figcaption>
 </figure>
-The project is focused on several lakes in the Aklavik Range of the Richardson Mountains, NWT, Canada. Our lakes include those who actively receive sediment from the Aklavik Range and others that remain isolated and perched on the plateau. 
+This study will answer key questions on how modern climate changes could result in increased sediment transport and sedimentation in Arctic regions.
 <figure class="single-image">
   <img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Lake Core Crew">
   <figcaption>
@@ -73,7 +75,6 @@ The project is focused on several lakes in the Aklavik Range of the Richardson M
   </figcaption>
 </figure>
 
-This paired study will answer key questions on how changing climate could result in increased sediment transport and sedimentation in Arctic regions.
 
 # Preliminary Data Collection: Summer 2025
 We collected preliminary data for this project in Summer 2025 from a lake in the Aklavik Range. This preliminary data included bathymetry, a gravity core of lake sediments, and tile probing of the lake bottom to understand potential lake grain size and sediment depth.
@@ -102,7 +103,7 @@ In addition to our in-depth data collection at one lake, we scouted several othe
 </figure>
 
 ## Gallery of Images from Lake Scouting
-Click on each image to enlarge.
+<i>Click on each image to enlarge.</i>
 
 {% include gallery layout="half" %}
 
