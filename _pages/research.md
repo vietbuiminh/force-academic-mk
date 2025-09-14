@@ -29,13 +29,13 @@ feature_row:
   btn_class: "btn--primary"
 - image_path: assets/images/Dartmouth/lake_crew.JPG
   title: "Arctic Lake Cores"
-  excerpt: "Proposed NSF project to collect and study lake cores in the Richardson mountains, NWT, Canada to understand the relationship between climate and sedimentation rates."
+  excerpt: "Project in development to use lake cores from the Richardson mountains, NWT, Canada to understand the relationship between deglacial climate change and sedimentation."
   url: "/research/arctic-lake-cores"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 - image_path: assets/images/Dartmouth/kettlebox_prep2.JPG
   title: "Project <q>KEtTLE</q>" 
-  excerpt: "Laboratory experiments using off the shelf supplies to study kettle lake formation mechanisms, landscape roughness, and linkages to proglacial landscapes.<br>**(Undergraduate Student-Led Project)**"
+  excerpt: "Laboratory experiments using off the shelf supplies to quantify kettle lake formation mechanisms and landscape roughness in proglacial landscapes.<br>**(Undergraduate Student-Led Project)**"
   url: "/research/kettle"
   btn_label: "Learn More"
   btn_class: "btn--primary"

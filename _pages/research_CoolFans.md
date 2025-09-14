@@ -46,22 +46,18 @@ gallery:
   title: "Looking North towards the Mackenzie Delta"
 
 ---
-<b>This project uses remote sensing to understand sedimentation processes of alluvial fans in the Richardson and Mackenzie Mountains of Canada's Arctic.</b> It is part of a manuscript in prep (see publications page).
+
+The processes governing alluvial fan dynamics in Arctic regions are uniquely sensitive to changes in climate and frost-based erosional processes. <br><br>In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings.
 
 # Overview Video 
-Check out the video below to learn more about the project, my research, and see some awesome footage of the Aklavik Range.
-<i>(Filmed on location in the Aklavik Range, Richardson Mountains, NWT, Canada!)</i>
+Check out the video below to learn more about the project, my research, and see some awesome footage of the Aklavik Range.<br><br><i>(Filmed on location in the Aklavik Range, Richardson Mountains, NWT, Canada!)</i>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/yLqooQr2xmM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Project Framing
-<i>The processes governing alluvial fan formation in Arctic, permafrost regions are uniquely sensitive to changes in climate and frost-based erosional processes. In this project I use remote sensing of fans in the Aklavik Range, Northwest Territories, Canada to study sediment transport and fan accumulation processes unique to periglacial settings.</i>
-
-
-# Gallery of Field and Remote Sensing Images
-Click on each image to enlarge.
+## Gallery of Field and Remote Sensing Images
+<i>Click on each image to enlarge.</i>
 
 {% include gallery layout="half" %}
 
