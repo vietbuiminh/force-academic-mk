@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: Mississippi River in Autumn
-excerpt: In the Upper Mississippi River Valley, how does the increase in erosion rate triggered by Euro-American agriculture compare to erosion rates during deglaciation?
+excerpt: How do erosion rates triggered by deglaciation compare to erosion rates caused by Euro-American agriculture?
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -37,7 +37,7 @@ Euro-American settlement irrevocably altered the landscapes of the Upper Midwest
 </figure>
 
 ## Project Framing
-This work, published in <i>Geology</i> and featured on <i>Science.org</i>, is focused understanding how changes in climate, glaciation, and land use impact the morphology of river catchments. The project connects landscapes of the icy past from the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. 
+This work, published in <i>Geology</i> and featured on <i>Science.org</i>, is focused understanding how changes in climate, glaciation, and land use impact the morphology of river catchments. The project connects landscapes of the icy past from the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by Euro-American agriculture in the Upper Mississippi River Valley. 
 
 
 <figure class="single-image">
@@ -49,8 +49,8 @@ This work, published in <i>Geology</i> and featured on <i>Science.org</i>, is fo
   </figcaption>
 </figure>
 
-## Using geochronology to study paleoerosion rate
-To build a paleoerosion rate chronology, I pair cosmogenic <sup>10</sup>Be and optically stimulated luminescence dating. I relate pre-agricultural paleoerosion rate variability to paleoclimatic change and compare these shifts to increases seen post-Euro-American settlement.
+## Climate, agriculture, and erosion rate
+To study post-glacial erosion rates, I use paired cosmogenic <sup>10</sup>Be and optically stimulated luminescence dating on samples collected from a river terrace in the Whitewater River Valley, southeastern Minnesota. <br> <br> I compare my paleoerosion rate chronology to paleoclimatic change to see how climate drove erosion in the past. I then tie these climate-driven shifts to erosion rates after Euro-American was introduced to the landscape. 
 
 <figure class="single">
   <img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Buried Soil">
@@ -62,7 +62,7 @@ To build a paleoerosion rate chronology, I pair cosmogenic <sup>10</sup>Be and o
 </figure>
 
 I completed lab work for this project at the UMass Amherst Cosmogenic Nuclide Laboratory with Prof. Isaac Larsen and at the Utah State Luminescence Laboatory with Prof. Tammy Rittenour.
-
+<br><br>To learn more about our findings and this project, check out my paper in <i>Geology</i> or the article about this work on <i>Science.org</i>.
 <figure class="half image-row">
   <div class="image-container">
     <img src="/assets/images/IMG_1618.JPEG" alt="Heating Sample">
