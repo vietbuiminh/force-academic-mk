@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching and Mentoring"
+title: "Teaching"
 permalink: /teaching/overview
 hidden: true
 header:
@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption:
-excerpt: My teaching and mentoring approach is focused on active learning, building an inclusive classroom environment, and a student-driven focus to assess learning outcomes. I strive to position myself as a resource for students, where I serve as an instructor and collaborator for each student to achieve learning goals.
+excerpt: My teaching approach is focused on active learning, building an inclusive classroom environment, and a student-driven focus to assess learning outcomes. I strive to position myself as a resource for students, where I serve as an instructor and collaborator for each student to achieve learning goals.
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -24,11 +24,11 @@ toc_sticky: true
       
 ---
 # Teaching
-I work with my students to build knowledge, confidence, and the skills to critically exampine the complex, interacting, and interdisciplinary nature of climate, glaciation, and Earth surface processes. I love working with students as they develop their interests and professional goals. I have pursued teaching opportunities throughout my academic career and hold a teaching certificate from the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum at the University of Minnesota.
+I have pursued teaching opportunities throughout my academic career and hold a teaching certificate from the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum at the University of Minnesota.
 
 ## Teaching at Dartmouth College
 
-I am teaching **Earth Surface Processes and Landforms (EARS 33)**, an upper-level undergraduate course in Dartmouth's Earth Sciences Department in Spring 2026 as part of my postdoctoral fellowship. **This course is heavily focused on building essential student skills in working with spatial datasets in GIS (ArcPro, QGIS, GRASS GIS) and understanding landscape processes through field, lab, and classroom activities.** <i>In addition to teaching at Dartmouth, I am also directly supervising several undergraduate research students (see Undergraduate Research Advising below).</i>
+I am teaching **Earth Surface Processes and Landforms (EARS 33)**, an upper-level undergraduate course in Dartmouth's Earth Sciences Department in Spring 2026 as part of my postdoctoral fellowship. **This course is heavily focused on building essential student skills in working with spatial datasets in GIS (ArcPro, QGIS, GRASS GIS) and understanding landscape processes through field, lab, and classroom activities.** <i>In addition to teaching at Dartmouth, I am also directly supervising several undergraduate research students (see Undergraduate Research Advising).</i>
 
 ## Guest Teaching
 
@@ -51,7 +51,7 @@ I am teaching **Earth Surface Processes and Landforms (EARS 33)**, an upper-leve
   </div>
   <figcaption>
     <p class="text-center">
-      Left: Fieldwork in the Aklavik Range, NWT, Canada; Right: Augering river terraces in Southeastern Minnesota, USA
+      A sediment core image collected as part of an undergraduate research project with Abigail Wilwerding, University of Minnesota.
     </p>
   </figcaption>
 </figure>
@@ -70,6 +70,6 @@ I am teaching **Earth Surface Processes and Landforms (EARS 33)**, an upper-leve
 <figure class="half">
 	<img src="/assets/images/DSC_0274_export.jpg">
 	<img src="/assets/images/Dartmouth/mud_geoprobe.jpeg">
-	<figcaption></figcaption>
+	<figcaption>Left: "Science Under the Stars" outreach event at UMN; Right: Undergraduate mentee Campbell Dunn helping Prof. Garry Running with geoprobe sampling. </figcaption>
 </figure>
 

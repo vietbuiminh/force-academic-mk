@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption:
-excerpt: My teaching and mentoring approach is focused on active learning, building an inclusive classroom environment, and a student-driven focus to assess learning outcomes. I strive to position myself as a resource for students, where I serve as an instructor and collaborator for each student to achieve learning goals.
+excerpt: I have designed and completed several projects for undergraduate students from both my own research projects and in collaboration with individual students to build projects based around their interests.
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -26,16 +26,16 @@ toc_sticky: true
 
 # Undergraduate Mentoring
 ## Research Advising
-<p>
-As a mentor, I work to provide a structured and collaborative introduction to research for my students. I have designed and completed several projects for undergraduate students from both my own research projects and in collaboration with individual students to build projects based around their interests. <strong>I have directly supervised six undergraduate research projects and served on the undergraduate thesis committee for two students, with many of my students coming from under-represented communities in Earth Sciences.</strong>
-</p>
+
+As a mentor, I work to provide a structured and collaborative introduction to research for my students. I have directly supervised eight undergraduate research students, with many of my students coming from under-represented communities in Earth Sciences.
+
 
 <!-- TEXT GRID -->
 <h2>Research Students</h2>
 <p><em>* Student from group(s) historically underrepresented in geosciences</em></p>
 <div class="mentoring-grid">
   <div class="mentor">
-  <div class="name"><strong>Laura Wilson - Dartmouth College - (2025 – Present)</strong></div>
+  <div class="name"><strong>Laura Wilson & Lang Burgess - Dartmouth College - (2025 – Present)</strong></div>
   <div class="details">
     <em>
       Directed Undergraduate Research Project<br>
@@ -115,6 +115,6 @@ As a mentor, I work to provide a structured and collaborative introduction to re
 <figure class="half" style="margin-top: 2rem;">
   <img src="/assets/images/Dartmouth/slackwater_abbylab.JPG">
   <img src="/assets/images/Dartmouth/Lang_icespheres.JPG">
-  <figcaption></figcaption>
+  <figcaption>Left: Abby Wilwerding working hard processing sediment cores; Right: Lang Burgess with ice molds used for kettle lake experiments.</figcaption>
 </figure>
 

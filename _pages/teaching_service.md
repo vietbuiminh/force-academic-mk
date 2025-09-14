@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption:
-excerpt: My teaching and mentoring approach is focused on active learning, building an inclusive classroom environment, and a student-driven focus to assess learning outcomes. I strive to position myself as a resource for students, where I serve as an instructor and collaborator for each student to achieve learning goals.
+excerpt: I am dedicated to supporting all members of the scientific community and promoting inclusivity in all areas of academia.
 
 # Includes author profile in sidebar
 author: Shanti Penprase
