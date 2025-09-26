@@ -23,9 +23,9 @@ excerpt: I am a gopher tortoise working as a geoscientist at the University of F
 <b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
 
 <figure class="third">
-    <img src="/assets/images/waterfall.png" alt="Waterfall" class="test-class">
-    <img src="/assets/images/mudstone.png" alt="Mudstone" class="test-class">
-    <img src="/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
+    <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
+    <img src="{{ site.baseurl }}/assets/images/mudstone.png" alt="Mudstone" class="test-class">
+    <img src="{{ site.baseurl }}/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
     <figcaption>
       <p class="text-center">
         Left: Waterfall in the North Shore, MN; Middle: Mudstone sampling at State Park, USA; Right: River Gorge formed from LGM, augering river terraces in Southeastern Minnesota, USA
