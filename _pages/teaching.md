@@ -73,8 +73,8 @@ I served for two years on the organizing committee for the annual, two-day UMN S
 In addition to my teaching experience, **I have served as a direct research advisor, senior thesis committee member, and research collaborator for a number of undergraduate students**. Several of my students have generated independent research projects and presented their research in a number of public formats. As a mentor **I work to build a project plan with each of my students to address their specific research and skill building goals during our work together**.
 
 <figure class="half">
-	<img src="/assets/images/field1.png">
-	<img src="/assets/images/field2.png">
+	<img src="{{ site.baseurl }}/assets/images/field1.png">
+	<img src="{{ site.baseurl }}/assets/images/field2.png">
 	<figcaption></figcaption>
 </figure>
 
