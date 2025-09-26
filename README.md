@@ -5,3 +5,5 @@ This is the template part of the workshop at University of Florida, Geological S
 Only use this template if you are new to website making for academic settings
 
 Fork this template and renamed into your {github_username}.github.io
+
+> Further instruction and workshop content: [jupyter book](https://vietmbui.com/website-for-geoscientist-workshop/)
