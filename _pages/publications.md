@@ -4,7 +4,7 @@ layout: single
 permalink: /publications/
 
 # Includes author profile in sidebar
-author: Shanti Penprase
+author: First M. Last
 author_profile: true
 
 classes: wide
@@ -12,11 +12,11 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/PeritoMorenoSideRiver.JPG
-  caption: "Perito Moreno Glacier, Argentina"
+  overlay_image: /assets/images/basalt.png
+  caption: "Exposed basalt, Grand Marais, MN"
 #excerpt: 
 ---
-[Full citation list available on Google Scholar](https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en){:target="_blank"}<br>
+[Full citation list available on Google Scholar](https://scholar.google.com/){:target="_blank"}<br>
 
 | In Review & Submitted                                                                                                                                                                                                                                                                                                                                                   | 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 

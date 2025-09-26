@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "nw"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "nw"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shanti B. Penprase"
+title                    : "First M. Last"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shanti Penprase"
+name                     : "First M. Last"
 description              : "Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : spenprase/spenprase.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : vietbuiminh/force-academic-mk # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/photo-1590379492966-e076d8f84c2d.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/assets/images/nwlogo_120x168px_square.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:penpr001@umn.edu"
+      # url: "mailto:yourmail@example.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,14 +122,14 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  url: https://www.facebook.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/spenprase"
+      url: "https://github.com/vietbuiminh/force-academic-mk"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:

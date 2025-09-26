@@ -4,7 +4,10 @@
   {% endfor %}
 {% else %}
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+  <script src="{{ '/assets/js/brands.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/fontawesome.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/solid.js' | relative_url }}"></script>
+  <!-- <script src="https://kit.fontawesome.com/4eee35f757.js"></script> -->
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}

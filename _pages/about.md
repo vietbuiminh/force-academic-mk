@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: Shanti Penprase
+author: First M. Last
 author_profile: true
 
 classes: wide
@@ -12,23 +12,28 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Dartmouth/CV_headerimage.JPG
-  caption: "Alluvial Fans in the Aklavik Range, Canada"
-excerpt: I am currently at Dartmouth College as the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences. I grew up in southern California but have learned to love seasons (and snow!) from my time in New Hampshire and Minnesota. Outside of work, I love hiking, swimming, yoga, baking, and reading historical fiction.
+  overlay_image: /assets/images/image.png
+  caption: "Park Reserve in Pensacola, 2/2/2025"
+excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
 ---
-* PhD, University of Minnesota
-  * Thesis: <i>"Sediment, Water, Change: Post-Glacial to Post-Settlement evolution of the Upper Mississippi River Valley"</i>
-* BA, Carleton College, <i>Geology</i>
+* PhD, University of Florida
+  * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
+* BSc, Augustana College, <i>Geology</i>
 
-<b>Contact: <a href="mailto:shanti.b.penprase@dartmouth.edu">shanti.b.penprase@dartmouth.edu</a></b> 
+<b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
 
 <figure class="third">
-    <img src="/assets/images/IMG_0725.JPG" alt="Aklavik Fieldwork" class="test-class"><img src="/assets/images/banners/IMG_2277.JPG" alt="Lab work" class="test-class">
-	<img src="/assets/images/IMG_5616_2.JPG" alt="River terrace sampling">
-	<figcaption><p class="text-center"> Left: Fieldwork in the Aklavik Range, NWT, Canada; Middle: Luminescence dating at Utah State University, USA; Right: Augering river terraces in Southeastern Minnesota, USA </p></figcaption>
+    <img src="/assets/images/waterfall.png" alt="Waterfall" class="test-class">
+    <img src="/assets/images/mudstone.png" alt="Mudstone" class="test-class">
+    <img src="/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
+    <figcaption>
+      <p class="text-center">
+        Left: Waterfall in the North Shore, MN; Middle: Mudstone sampling at State Park, USA; Right: River Gorge formed from LGM, augering river terraces in Southeastern Minnesota, USA
+      </p>
+    </figcaption>
 </figure>
 ## Affiliations
-* Dartmouth College: [Department of Earth Sciences](https://earthsciences.dartmouth.edu/){:target="_blank"}
-* University of Minnesota: [Saint Anthony Falls Laboratory](https://cse.umn.edu/safl){:target="_blank"} and [MNiMorph Research Group](https://mnimorph.github.io/){:target="_blank"}
+* University of Florida: [Department of Geological Sciences](https://geology.ufl.edu){:target="_blank"}
+
 
 

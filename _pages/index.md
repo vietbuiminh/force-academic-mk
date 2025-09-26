@@ -6,53 +6,51 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.2"
-  overlay_image: assets/images/banners/IMG_1354.JPG
+  overlay_image: assets/images/image.png
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Alluvial fans in the Aklavik Range, NWT, Canada"  
-excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes. <br />
+  caption: "Park reserve in Pensacola, 2/2/2025"  
+excerpt: Passionate geoscientist dedicated to exploring Earth's dynamic landscapes and understanding how natural processes and human activities shape our planet. <br />
 
 # Includes author profile in sidebar
-author: Shanti Penprase
+author: First M. Last
 author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/IMG_1834.JPG
+  - image_path: /assets/images/about.png
     image_size: 100px
     alt: "About"
     title: "About"
-    excerpt: "As someone who grew up in southern California (and had never seen snowfall before college!) but now loves to study glacial landscapes, I like to think of myself as <q>from SoCal to so cold!</q>"
-    url: "http://spenprase.github.io/about/"
+    excerpt: "As a Gopher Tortoise who has spent a lifetime burrowing in the sandy soils of the Southeast, I now find myself fascinated by the study of glacial landscapes—quite a journey from warm burrows to chilly terrains!"
+    url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/IMG_0573.JPG
+  - image_path: /assets/images/research.png
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "I study how landscapes evolve over time and respond to changes in climate, glaciation and human activity using a combination of remote sensing, field, lab, and computational approaches."
-    url: "http://spenprase.github.io/research/"
+    excerpt: "I study how rock fracturing is influenced by climate forcing and water erosion, using remote sensing, fieldwork, laboratory experiments, and computational modeling to understand landscape evolution."
+    url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/DSC_0274_export.jpg
+  - image_path: /assets/images/teaching.png
     alt: "Teaching"
     image_size: 500px
     title: "Teaching and Mentoring"
-    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to teaching and mentoring undergraduate students."
-    url: "http://spenprase.github.io/teaching/"
+    excerpt: "Mentoring future geoscientists and students is central to my mission. I strive to foster curiosity, critical thinking, and inclusivity in every learning environment."
+    url: "/teaching/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"      
 ---
 
 {%include feature_row%}
 
-<p style="font-size: 1.8rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
-My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiation of Euro-American agriculture in the upper Mississippi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
+Example for extra information that can be display on the landing page
 
-**[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this exciting project.**
+> **Now Recruiting:**  
+> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
 
-<figure class="0.75">
-	<img src="/assets/images/Science%20Article%20Preview.png" alt="Science Article preview">
-	<figcaption></figcaption>
-</figure>
+> **Seeking Graduate Opportunities:**  
+> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!

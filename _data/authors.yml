@@ -1,30 +1,21 @@
 # /_data/authors.yml
 
-Shanti Penprase:
-  name             : "Shanti Penprase"
-  avatar           : "https://mnimorph.github.io/assets/images/headshots/penprase_2020_square_480px.jpg"
-  bio              : "**Guarini Dean's Postdoctoral Fellow** <br/>Department of Earth Sciences, Dartmouth College<br/>"
-  #location         : Minneapolis, Minnesota, USA
-  email            : shanti.b.penprase@dartmouth.edu
+First M. Last:
+  name             : "First M. Last"
+  avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
+  bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
+  location         : Gainesville, FL
+  email            : example@email.com
   links:
-    # label: "University website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://www.esci.umn.edu/people/Andrew-Wickert"
+    - label: "University website"
+      icon: "fas fa-solid fa-link"
+      url: "https://www.geology.ufl.edu/"
     - label: "ORCID"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://orcid.org/0000-0002-8870-9377"
-      # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    #- label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-      #url: "https://github.com/spenprase"
-      # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en&oi=ao
+      icon: "fab fa-brands fa-google"
+      url: https://scholar.google.com/
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/spenprase"
+      icon: "fab fa-brands fa-github"
+      url: "https://github.com/"

@@ -4,63 +4,50 @@ title: "Research"
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/IMG_0342.JPG
+  overlay_image: /assets/images/rivermotion.png
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "Whitewater River Valley, Minnesota, USA"
-excerpt: I'm interested in how climate and deglaciation dictate process and morphology of landscapes across timescales, from thousand-year deglacial climate change to modern, anthropogenic shifts.
-
-
-overlay_color: "#000"
-overlay_filter: "0.5"
-overlay_image: /assets/images/DSC2877.JPG
-actions:
-- label: "Get Started"
-url: "/test/"
+  caption: "River Motion, Minnesota"
+excerpt: Geoscientists study how rivers shape landscapes through erosion, sediment transport, and deposition. River erosion carves valleys, forms channels, and exposes bedrock, while processes like rock fracturing influence the development of landforms and the movement of water and sediments over time.
 permalink: /research/
 
 feature_row:
-- image_path: /assets/images/IMG_0573.JPG
-  title: "Cool Fans"
-  excerpt: "Remote sensing of alluvial fans to study periglaical sediment transport in the Richardson and Mackenzie Mountains, Canada."
-  url: "/research/cool-fans"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: assets/images/Dartmouth/lake_crew.JPG
-  title: "Arctic Lake Cores"
-  excerpt: "Project in development to use lake cores from the Richardson mountains, NWT, Canada to understand the relationship between deglacial climate change and sedimentation."
-  url: "/research/arctic-lake-cores"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: assets/images/Dartmouth/kettlebox_prep2.JPG
-  title: "Project <q>KEtTLE</q>" 
-  excerpt: "Laboratory experiments using off the shelf supplies to quantify kettle lake formation mechanisms and landscape roughness in proglacial landscapes.<br>**(Undergraduate Student-Led Project)**"
-  url: "/research/kettle"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: assets/images/IMG_5543_2_2crop2.jpeg
-  title: "Plow vs Ice Age"
-  excerpt: "Comparing thousand-year post-glacial landscape erosion rates to decadal post-Euro-American erosion rates in the upper Mississippi River Valley. <br> **(Project recently featured on Science.org)**"
-  url: "/research/plow-vs-ice"
-  btn_label: "Learn More"
-  btn_class: "btn--primary"
-- image_path: /assets/images/IMG_7580.JPG
-  title: "Meltwater, Mud, and the Mississippi"
-  excerpt: "Using fine-grained, slackwater sediment cores to study glacial drainage reorganization during the retreat of the Laurentide Ice Sheet."
-  url: "/research/meltwater-mud"
-  btn_label: "Learn More"
-  btn_class: "btn--primary"
-- image_path: /assets/images/IMG_3837.png
-  title: "Other Research Projects"
-  excerpt: "Collaborator-driven research, including several co-authored publications focused on the Southern Patagonian Ice Field."
-  url: "/research/collaborations"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 ---
+
+Geoscientific research encompasses a wide range of topics, including river dynamics, sedimentology, volcanic processes, and landscape evolution. Our interests span the investigation of how natural forces shape the Earth's surface, the interaction between water and rock, and the long-term impacts of geological events on ecosystems.
+
+**Featured Project: Subsurface Mapping of Ancient River Channels**
+
+We are currently developing a project focused on using ground-penetrating radar and sediment core analysis to map buried river channels in the Upper Midwest. This research aims to reconstruct paleoenvironments, understand historical water flow patterns, and assess how ancient rivers influenced present-day landforms and groundwater resources.
+
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
 
